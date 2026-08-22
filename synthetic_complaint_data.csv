@@ -1,0 +1,801 @@
+complaint_id,complaint_timestamp,response_timestamp,resolve_timestamp,ticket_status,customer_status,source,brand,purchase_channel,outlet,complaint_type,issue_detail,responsible_area
+CMP-0001,2025-03-24 11:34:00,2025-03-24 11:58:00,2025-03-24 12:19:00,SOLVED,Refund,Whatsapp,Moon Chicken,Take Away,Tebet,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0002,2025-01-16 18:39:00,2025-01-16 18:53:00,2025-01-16 19:18:00,SOLVED,Refund,Feedback,Ayam Koplo,Platform,Kemang,Rasa tidak sesuai,Keasinan,QC
+CMP-0003,2025-06-13 12:12:00,2025-06-13 12:20:00,,HANDLING,In progress,Whatsapp,Moon Chicken,App,Tebet,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0004,2025-02-16 20:55:00,2025-02-16 21:07:00,2025-02-16 21:38:00,SOLVED,Forgiven,Feedback,Moon Chicken,Take Away,Pamulang,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0005,2025-06-21 10:19:00,2025-06-21 10:22:00,2025-06-21 10:55:00,SOLVED,Forgiven,Feedback,San Gyu,Phone,Cikini,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0006,2025-06-21 14:55:00,2025-06-21 15:03:00,2025-06-21 15:16:00,SOLVED,Forgiven,App,Bude Sari,Platform,Cikini,Order tidak lengkap,Item kurang,Checker
+CMP-0007,2025-04-13 18:22:00,2025-04-13 18:28:00,2025-04-13 20:39:00,SOLVED,Refund,Social Media,Ayam Koplo,Phone,BSD,Packaging issue,Kemasan rusak,AM
+CMP-0008,2025-06-06 18:39:00,2025-06-06 18:45:00,2025-06-06 19:49:00,SOLVED,Refund,Feedback,Ayam Koplo,Phone,Kemang,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0009,2025-03-29 19:15:00,2025-03-29 19:19:00,,VALIDATING,Missing proof,App,Moon Chicken,Platform,Kemang,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0010,2025-02-01 10:58:00,2025-02-01 11:04:00,2025-02-01 13:13:00,SOLVED,Misunderstanding clarified,Feedback,Bude Sari,Take Away,Cibubur,Tech issue,App error,Tech Team
+CMP-0011,2025-01-07 21:56:00,2025-01-07 22:02:00,2025-01-07 23:19:00,SOLVED,Refund,Social Media,Moon Chicken,App,Pamulang,Packaging issue,Kemasan bocor,AM
+CMP-0012,2025-02-28 12:24:00,2025-02-28 12:31:00,2025-02-28 13:58:00,EXPIRED,No response,Whatsapp,San Gyu,Take Away,Kemang,Tech issue,Voucher error,Driver
+CMP-0013,2025-01-21 12:45:00,2025-01-21 12:48:00,2025-01-21 13:52:00,EXPIRED,No response,App,Ayam Koplo,Take Away,Cibubur,Rasa tidak sesuai,Keasinan,Checker
+CMP-0014,2025-04-10 21:08:00,2025-04-10 21:21:00,2025-04-10 22:59:00,SOLVED,Refund,Feedback,Bude Sari,Take Away,Pluit,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0015,2025-04-30 20:11:00,2025-04-30 20:19:00,,HANDLING,In progress,Social Media,Dari Pada,App,Cibubur,Tekstur tidak sesuai,Daging kering,QC
+CMP-0016,2025-02-24 09:28:00,2025-02-24 09:32:00,2025-02-24 10:16:00,SOLVED,Forgiven,App,Ayam Koplo,Take Away,Pamulang,Packaging issue,Label tidak sesuai,AM
+CMP-0017,2025-02-08 17:56:00,2025-02-08 17:59:00,2025-02-08 22:04:00,SOLVED,Forgiven,Whatsapp,Bude Sari,App,Pluit,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0018,2025-02-18 13:43:00,2025-02-18 13:49:00,2025-02-18 14:58:00,SOLVED,Forgiven,Whatsapp,Moon Chicken,Platform,Cibubur,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0019,2025-05-03 17:39:00,2025-05-03 17:43:00,2025-05-03 18:45:00,SOLVED,Replacement sent,App,Dari Pada,Phone,Pamulang,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0020,2025-02-01 11:38:00,2025-02-01 11:44:00,2025-02-01 12:07:00,SOLVED,Misunderstanding clarified,App,Ayam Koplo,Phone,Pamulang,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0021,2025-03-23 10:34:00,2025-03-23 10:46:00,,VALIDATING,Missing proof,Feedback,Moon Chicken,Phone,Cikini,Produk tidak sesuai dengan order,Menu tertukar,QC
+CMP-0022,2025-01-27 10:26:00,2025-01-27 11:10:00,,HANDLING,In progress,App,San Gyu,Take Away,Kemang,Packaging issue,Kemasan rusak,AM
+CMP-0023,2025-05-12 18:44:00,2025-05-12 18:56:00,2025-05-12 21:33:00,SOLVED,Replacement sent,Social Media,San Gyu,Platform,Tebet,Tech issue,Pembayaran gagal,Tech Team
+CMP-0024,2025-02-26 10:08:00,2025-02-26 10:30:00,2025-02-26 16:49:00,SOLVED,Refund,Whatsapp,Moon Chicken,Take Away,Cibubur,Packaging issue,Kemasan bocor,Admin
+CMP-0025,2025-01-13 12:05:00,2025-01-13 12:11:00,,VALIDATING,Missing proof,App,San Gyu,Take Away,Pamulang,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0026,2025-05-10 18:24:00,2025-05-10 18:30:00,2025-05-10 21:16:00,SOLVED,Refund,App,Dari Pada,Phone,Cibubur,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0027,2025-06-12 11:23:00,2025-06-12 11:28:00,2025-06-12 18:21:00,SOLVED,Refund,App,San Gyu,Platform,Kemang,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0028,2025-02-17 11:41:00,2025-02-17 11:49:00,2025-02-17 15:09:00,SOLVED,Replacement sent,Social Media,Bude Sari,Take Away,Kemang,Packaging issue,Kemasan rusak,AM
+CMP-0029,2025-05-02 13:45:00,2025-05-02 13:57:00,2025-05-02 15:16:00,SOLVED,Refund,Whatsapp,Ayam Koplo,Take Away,Kemang,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0030,2025-05-16 21:48:00,2025-05-16 21:49:00,2025-05-16 23:20:00,EXPIRED,No response,Social Media,Dari Pada,Phone,BSD,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0031,2025-05-10 11:22:00,2025-05-10 11:41:00,2025-05-10 12:30:00,SOLVED,Refund,Whatsapp,Dari Pada,Platform,Bintaro,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0032,2025-04-27 10:11:00,2025-04-27 10:13:00,2025-04-27 10:33:00,SOLVED,Forgiven,Feedback,Dari Pada,Take Away,Tebet,Rasa tidak sesuai,Keasinan,QC
+CMP-0033,2025-06-25 13:54:00,2025-06-25 13:58:00,2025-06-25 16:35:00,SOLVED,Forgiven,Whatsapp,Dari Pada,App,Bintaro,Order tidak lengkap,Item kurang,Checker
+CMP-0034,2025-06-22 10:41:00,2025-06-22 10:47:00,2025-06-22 11:34:00,SOLVED,Misunderstanding clarified,Social Media,Bude Sari,Phone,Pamulang,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0035,2025-05-10 16:40:00,2025-05-10 16:49:00,2025-05-10 19:21:00,SOLVED,Misunderstanding clarified,App,Bude Sari,Platform,Bintaro,Packaging issue,Kemasan bocor,AM
+CMP-0036,2025-03-01 17:29:00,2025-03-01 17:34:00,2025-03-01 18:28:00,SOLVED,Misunderstanding clarified,App,Bude Sari,Platform,Kemang,Tech issue,App error,Tech Team
+CMP-0037,2025-03-28 15:47:00,2025-03-28 15:53:00,2025-03-28 16:37:00,SOLVED,Replacement sent,Social Media,Ayam Koplo,Take Away,Kemang,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0038,2025-06-19 13:52:00,2025-06-19 13:56:00,,HANDLING,In progress,Feedback,Ayam Koplo,Take Away,Pamulang,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0039,2025-01-13 21:29:00,2025-01-13 21:32:00,2025-01-13 22:21:00,EXPIRED,No response,Social Media,Bude Sari,Phone,Pluit,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0040,2025-03-03 14:08:00,2025-03-03 14:17:00,2025-03-03 15:22:00,SOLVED,Forgiven,Whatsapp,Dari Pada,App,BSD,Tech issue,Pembayaran gagal,AM
+CMP-0041,2025-04-20 11:22:00,2025-04-20 11:31:00,2025-04-20 11:47:00,SOLVED,Replacement sent,App,Ayam Koplo,Take Away,Tebet,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0042,2025-05-15 12:35:00,2025-05-15 12:38:00,2025-05-15 17:52:00,SOLVED,Misunderstanding clarified,Whatsapp,San Gyu,Phone,Cikini,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0043,2025-06-15 16:36:00,2025-06-15 16:41:00,,HANDLING,In progress,App,San Gyu,Platform,Kemang,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,QC
+CMP-0044,2025-01-28 12:49:00,2025-01-28 12:57:00,,HANDLING,In progress,Feedback,Ayam Koplo,Platform,Tebet,Tekstur tidak sesuai,Kurang crispy,Admin
+CMP-0045,2025-05-16 19:51:00,2025-05-16 19:59:00,2025-05-16 20:49:00,SOLVED,Replacement sent,Whatsapp,Moon Chicken,Take Away,Tebet,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0046,2025-03-22 20:00:00,2025-03-22 20:08:00,2025-03-22 21:02:00,SOLVED,Misunderstanding clarified,App,Bude Sari,Platform,Bintaro,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0047,2025-06-28 14:46:00,2025-06-28 15:18:00,,VALIDATING,Missing proof,App,San Gyu,Platform,BSD,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0048,2025-02-19 12:56:00,2025-02-19 13:19:00,2025-02-19 13:35:00,SOLVED,Replacement sent,Social Media,Ayam Koplo,Platform,Pamulang,Tech issue,Voucher error,Tech Team
+CMP-0049,2025-04-11 09:55:00,2025-04-11 10:06:00,2025-04-11 10:51:00,SOLVED,Replacement sent,Feedback,Moon Chicken,Platform,Pluit,Porsi tidak sesuai,Porsi terlalu sedikit,Driver
+CMP-0050,2025-02-18 12:09:00,2025-02-18 12:32:00,,HANDLING,In progress,Feedback,Moon Chicken,Take Away,Pamulang,Tech issue,Voucher error,QC
+CMP-0051,2025-04-08 15:05:00,2025-04-08 15:08:00,2025-04-08 16:10:00,EXPIRED,No response,Whatsapp,Bude Sari,Phone,Tebet,Packaging issue,Kemasan rusak,AM
+CMP-0052,2025-04-16 13:13:00,2025-04-16 13:15:00,2025-04-16 16:19:00,SOLVED,Replacement sent,Whatsapp,Moon Chicken,Phone,BSD,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0053,2025-06-26 14:24:00,2025-06-26 14:36:00,2025-06-26 16:41:00,EXPIRED,No response,Whatsapp,San Gyu,Platform,Kemang,Packaging issue,Kemasan rusak,AM
+CMP-0054,2025-02-03 17:28:00,2025-02-03 17:34:00,2025-02-03 17:55:00,SOLVED,Refund,App,Moon Chicken,App,Pamulang,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0055,2025-03-05 15:57:00,2025-03-05 16:05:00,2025-03-05 17:03:00,SOLVED,Refund,Social Media,Moon Chicken,App,Cibubur,Rasa tidak sesuai,Keasinan,QC
+CMP-0056,2025-03-17 14:00:00,2025-03-17 14:11:00,2025-03-17 14:43:00,SOLVED,Refund,Social Media,Dari Pada,Take Away,Pamulang,Packaging issue,Kemasan rusak,AM
+CMP-0057,2025-03-06 13:11:00,2025-03-06 13:15:00,2025-03-06 13:26:00,SOLVED,Replacement sent,Whatsapp,Moon Chicken,Platform,Cibubur,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0058,2025-05-30 12:18:00,2025-05-30 12:39:00,2025-05-30 14:19:00,SOLVED,Misunderstanding clarified,Feedback,San Gyu,Take Away,Pluit,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0059,2025-03-07 09:39:00,2025-03-07 09:43:00,2025-03-07 09:46:00,SOLVED,Replacement sent,Feedback,Moon Chicken,Take Away,Cikini,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0060,2025-04-12 20:19:00,2025-04-12 20:31:00,,VALIDATING,Missing proof,App,Dari Pada,Phone,Tebet,Tekstur tidak sesuai,Kurang crispy,Kitchen
+CMP-0061,2025-04-02 16:04:00,2025-04-02 16:15:00,2025-04-02 16:42:00,SOLVED,Misunderstanding clarified,App,Moon Chicken,Phone,Cikini,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0062,2025-02-03 09:15:00,2025-02-03 09:42:00,2025-02-03 14:22:00,SOLVED,Refund,Feedback,Dari Pada,Platform,Pluit,Order tidak lengkap,Item kurang,Checker
+CMP-0063,2025-04-09 17:22:00,2025-04-09 17:26:00,2025-04-09 18:54:00,SOLVED,Refund,Whatsapp,San Gyu,Phone,Pluit,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0064,2025-06-07 12:20:00,2025-06-07 12:26:00,2025-06-07 18:29:00,SOLVED,Misunderstanding clarified,Whatsapp,Ayam Koplo,Phone,Bintaro,Tech issue,App error,Tech Team
+CMP-0065,2025-04-27 18:23:00,2025-04-27 18:29:00,2025-04-27 19:37:00,SOLVED,Forgiven,App,Bude Sari,Phone,Pamulang,Packaging issue,Kemasan rusak,AM
+CMP-0066,2025-06-08 16:49:00,2025-06-08 16:52:00,2025-06-08 17:12:00,SOLVED,Replacement sent,Whatsapp,Bude Sari,Platform,BSD,Tekstur tidak sesuai,Keras,Kitchen
+CMP-0067,2025-01-22 21:31:00,2025-01-22 21:50:00,2025-01-22 23:41:00,SOLVED,Refund,Whatsapp,Dari Pada,Phone,Tebet,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0068,2025-02-12 20:42:00,2025-02-12 20:46:00,2025-02-13 00:34:00,SOLVED,Forgiven,Social Media,Moon Chicken,App,Cikini,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0069,2025-06-07 17:38:00,2025-06-07 17:43:00,2025-06-07 20:11:00,EXPIRED,No response,Whatsapp,San Gyu,App,Cikini,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0070,2025-01-13 19:51:00,2025-01-13 20:03:00,2025-01-13 20:45:00,SOLVED,Misunderstanding clarified,Social Media,Bude Sari,Phone,Tebet,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0071,2025-02-15 19:30:00,2025-02-15 19:54:00,2025-02-15 20:10:00,SOLVED,Forgiven,Social Media,San Gyu,Take Away,Pamulang,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0072,2025-01-13 11:15:00,2025-01-13 11:18:00,2025-01-13 11:43:00,SOLVED,Misunderstanding clarified,Whatsapp,Ayam Koplo,Platform,Kemang,Tech issue,Voucher error,Tech Team
+CMP-0073,2025-04-04 19:38:00,2025-04-04 19:50:00,2025-04-04 21:22:00,EXPIRED,No response,Whatsapp,Ayam Koplo,App,Pluit,Tech issue,App error,Tech Team
+CMP-0074,2025-05-24 14:58:00,2025-05-24 15:06:00,2025-05-24 15:45:00,EXPIRED,No response,App,Dari Pada,App,Cibubur,Tech issue,App error,Tech Team
+CMP-0075,2025-06-18 12:21:00,2025-06-18 12:29:00,2025-06-18 14:44:00,SOLVED,Forgiven,Feedback,Bude Sari,App,Bintaro,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0076,2025-04-30 10:22:00,2025-04-30 10:25:00,2025-04-30 18:58:00,SOLVED,Misunderstanding clarified,Whatsapp,Ayam Koplo,Take Away,Bintaro,Tech issue,Voucher error,Tech Team
+CMP-0077,2025-04-22 20:42:00,2025-04-22 20:55:00,2025-04-22 21:15:00,SOLVED,Forgiven,Whatsapp,San Gyu,Platform,Bintaro,Packaging issue,Label tidak sesuai,AM
+CMP-0078,2025-05-01 18:03:00,2025-05-01 18:17:00,2025-05-01 19:42:00,SOLVED,Replacement sent,App,Moon Chicken,Take Away,BSD,Order tidak lengkap,Item kurang,Checker
+CMP-0079,2025-06-09 11:45:00,2025-06-09 11:47:00,,VALIDATING,Missing proof,Whatsapp,Ayam Koplo,Platform,Kemang,Produk tidak sesuai dengan order,Menu tertukar,Tech Team
+CMP-0080,2025-01-28 13:12:00,2025-01-28 13:23:00,2025-01-28 16:43:00,SOLVED,Refund,Whatsapp,Ayam Koplo,Platform,Tebet,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0081,2025-06-15 12:29:00,2025-06-15 12:32:00,,VALIDATING,Missing proof,Feedback,San Gyu,Take Away,Cikini,Packaging issue,Label tidak sesuai,AM
+CMP-0082,2025-03-15 19:33:00,2025-03-15 19:37:00,2025-03-15 22:15:00,EXPIRED,No response,Feedback,Bude Sari,Platform,Kemang,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0083,2025-02-13 16:26:00,2025-02-13 16:33:00,2025-02-13 16:54:00,SOLVED,Misunderstanding clarified,Social Media,Dari Pada,Platform,Bintaro,Order tidak lengkap,Minuman tidak ada,Admin
+CMP-0084,2025-02-24 20:56:00,2025-02-24 20:58:00,2025-02-24 22:17:00,SOLVED,Replacement sent,Whatsapp,Bude Sari,Platform,Pluit,Porsi tidak sesuai,Ukuran tidak sesuai,Checker
+CMP-0085,2025-04-19 20:01:00,2025-04-19 20:07:00,2025-04-19 20:18:00,SOLVED,Replacement sent,Social Media,San Gyu,Take Away,Bintaro,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0086,2025-05-14 11:39:00,2025-05-14 11:44:00,2025-05-14 13:03:00,SOLVED,Refund,App,Dari Pada,Phone,Cikini,Tech issue,Voucher error,Tech Team
+CMP-0087,2025-03-19 21:52:00,2025-03-19 21:56:00,,VALIDATING,Missing proof,Social Media,Ayam Koplo,Take Away,Bintaro,Tekstur tidak sesuai,Keras,Kitchen
+CMP-0088,2025-02-08 11:31:00,2025-02-08 11:38:00,2025-02-08 14:45:00,SOLVED,Misunderstanding clarified,Social Media,San Gyu,App,BSD,Packaging issue,Kemasan rusak,AM
+CMP-0089,2025-03-07 19:18:00,2025-03-07 19:46:00,2025-03-08 03:42:00,SOLVED,Refund,Feedback,Moon Chicken,Phone,Bintaro,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0090,2025-04-27 16:22:00,2025-04-27 16:48:00,2025-04-27 17:58:00,SOLVED,Forgiven,Feedback,San Gyu,App,Tebet,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0091,2025-04-15 17:50:00,2025-04-15 17:55:00,2025-04-15 21:22:00,EXPIRED,No response,Feedback,San Gyu,Phone,Kemang,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0092,2025-05-12 09:16:00,2025-05-12 09:18:00,2025-05-12 09:52:00,SOLVED,Misunderstanding clarified,Feedback,Dari Pada,Phone,Cikini,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0093,2025-04-08 15:49:00,2025-04-08 16:02:00,2025-04-08 17:13:00,SOLVED,Forgiven,Feedback,Moon Chicken,Phone,Tebet,Order tidak lengkap,Minuman tidak ada,Tech Team
+CMP-0094,2025-04-29 12:37:00,2025-04-29 12:52:00,2025-04-29 14:47:00,SOLVED,Forgiven,App,Ayam Koplo,Phone,Tebet,Tekstur tidak sesuai,Daging kering,Cashier
+CMP-0095,2025-05-01 15:03:00,2025-05-01 15:15:00,2025-05-01 15:42:00,SOLVED,Forgiven,Social Media,San Gyu,Phone,BSD,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0096,2025-01-22 20:15:00,2025-01-22 20:17:00,2025-01-22 21:34:00,SOLVED,Replacement sent,Feedback,Ayam Koplo,Platform,Pamulang,Produk tidak sesuai dengan order,Menu tertukar,Admin
+CMP-0097,2025-03-06 19:22:00,2025-03-06 19:35:00,,HANDLING,In progress,App,Dari Pada,App,Pluit,Rasa tidak sesuai,Keasinan,QC
+CMP-0098,2025-05-21 19:51:00,2025-05-21 20:04:00,2025-05-22 00:29:00,SOLVED,Refund,App,Ayam Koplo,Platform,Cibubur,Packaging issue,Kemasan bocor,AM
+CMP-0099,2025-05-23 09:59:00,2025-05-23 10:07:00,2025-05-23 13:17:00,SOLVED,Misunderstanding clarified,Feedback,Bude Sari,App,Pluit,Tech issue,Pembayaran gagal,Tech Team
+CMP-0100,2025-04-18 20:32:00,2025-04-18 20:44:00,,VALIDATING,Missing proof,Whatsapp,Ayam Koplo,Platform,Cikini,Rasa tidak sesuai,Basi,QC
+CMP-0101,2025-02-06 09:34:00,2025-02-06 09:50:00,2025-02-06 10:41:00,EXPIRED,No response,Social Media,Bude Sari,Platform,Pluit,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0102,2025-03-29 16:12:00,2025-03-29 16:17:00,2025-03-29 19:09:00,SOLVED,Forgiven,Social Media,Dari Pada,Take Away,Kemang,Packaging issue,Kemasan bocor,AM
+CMP-0103,2025-03-23 21:10:00,2025-03-23 21:18:00,2025-03-23 23:10:00,EXPIRED,No response,Whatsapp,Ayam Koplo,Phone,Tebet,Packaging issue,Label tidak sesuai,AM
+CMP-0104,2025-06-07 11:30:00,2025-06-07 11:34:00,2025-06-07 19:22:00,SOLVED,Refund,Feedback,Ayam Koplo,App,Kemang,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0105,2025-03-08 14:09:00,2025-03-08 14:15:00,2025-03-08 18:58:00,SOLVED,Forgiven,Social Media,Bude Sari,Platform,Kemang,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0106,2025-01-04 20:36:00,2025-01-04 20:44:00,2025-01-04 21:24:00,SOLVED,Forgiven,Feedback,Dari Pada,Phone,Pluit,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0107,2025-06-21 11:04:00,2025-06-21 11:06:00,2025-06-21 16:26:00,EXPIRED,No response,App,Ayam Koplo,Phone,Tebet,Rasa tidak sesuai,Keasinan,QC
+CMP-0108,2025-05-23 21:06:00,2025-05-23 21:27:00,2025-05-23 21:34:00,EXPIRED,No response,Whatsapp,Bude Sari,Platform,Pamulang,Tech issue,App error,AM
+CMP-0109,2025-06-05 10:01:00,2025-06-05 10:06:00,2025-06-05 11:44:00,SOLVED,Forgiven,Feedback,San Gyu,App,Cibubur,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0110,2025-05-26 14:41:00,2025-05-26 15:03:00,,HANDLING,In progress,Social Media,San Gyu,Platform,Kemang,Packaging issue,Kemasan rusak,AM
+CMP-0111,2025-04-07 19:16:00,2025-04-07 19:20:00,,HANDLING,In progress,Whatsapp,Bude Sari,Take Away,Pamulang,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0112,2025-02-06 18:45:00,2025-02-06 18:53:00,2025-02-06 19:16:00,EXPIRED,No response,Social Media,San Gyu,Platform,Cibubur,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0113,2025-01-15 20:33:00,2025-01-15 20:48:00,2025-01-15 22:40:00,SOLVED,Misunderstanding clarified,Social Media,Bude Sari,Platform,Bintaro,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0114,2025-05-31 12:26:00,2025-05-31 12:39:00,2025-05-31 13:54:00,EXPIRED,No response,Whatsapp,Ayam Koplo,App,Bintaro,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0115,2025-05-07 15:23:00,2025-05-07 15:29:00,2025-05-07 15:54:00,SOLVED,Refund,Whatsapp,San Gyu,App,Cibubur,Rasa tidak sesuai,Basi,QC
+CMP-0116,2025-02-24 13:27:00,2025-02-24 13:32:00,2025-02-24 15:53:00,SOLVED,Replacement sent,Feedback,Bude Sari,App,Tebet,Packaging issue,Label tidak sesuai,AM
+CMP-0117,2025-01-31 21:03:00,2025-01-31 21:09:00,2025-01-31 21:31:00,SOLVED,Replacement sent,App,San Gyu,Platform,Cikini,Rasa tidak sesuai,Keasinan,QC
+CMP-0118,2025-05-12 21:06:00,2025-05-12 21:17:00,2025-05-12 23:18:00,SOLVED,Misunderstanding clarified,App,Moon Chicken,Take Away,Tebet,Tech issue,Pembayaran gagal,Tech Team
+CMP-0119,2025-02-01 15:23:00,2025-02-01 15:42:00,2025-02-01 15:42:00,SOLVED,Refund,Feedback,Bude Sari,App,Pluit,Tech issue,Pembayaran gagal,Tech Team
+CMP-0120,2025-01-06 19:43:00,2025-01-06 19:50:00,2025-01-06 20:19:00,SOLVED,Forgiven,Social Media,Bude Sari,App,Cikini,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0121,2025-02-08 13:32:00,2025-02-08 13:33:00,2025-02-08 14:26:00,SOLVED,Misunderstanding clarified,App,Bude Sari,Platform,Bintaro,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Checker
+CMP-0122,2025-02-09 17:45:00,2025-02-09 17:50:00,,HANDLING,In progress,Social Media,Ayam Koplo,Platform,Cibubur,Order tidak lengkap,Item kurang,Admin
+CMP-0123,2025-02-06 19:55:00,2025-02-06 20:03:00,2025-02-06 20:18:00,SOLVED,Refund,App,Bude Sari,Phone,Cikini,Order tidak lengkap,Item kurang,QC
+CMP-0124,2025-02-14 12:21:00,2025-02-14 12:24:00,2025-02-14 19:05:00,SOLVED,Refund,Social Media,Moon Chicken,App,Cibubur,Rasa tidak sesuai,Keasinan,QC
+CMP-0125,2025-05-14 15:57:00,2025-05-14 16:05:00,2025-05-14 20:04:00,EXPIRED,No response,Social Media,Dari Pada,Take Away,Cikini,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0126,2025-05-25 15:15:00,2025-05-25 15:23:00,2025-05-25 16:30:00,SOLVED,Misunderstanding clarified,Whatsapp,Ayam Koplo,Take Away,Cikini,Order tidak lengkap,Minuman tidak ada,Kitchen
+CMP-0127,2025-03-16 10:50:00,2025-03-16 10:55:00,2025-03-16 12:21:00,SOLVED,Replacement sent,App,Bude Sari,Platform,Kemang,Tech issue,App error,Tech Team
+CMP-0128,2025-06-28 21:36:00,2025-06-28 21:46:00,2025-06-29 06:49:00,SOLVED,Replacement sent,Feedback,San Gyu,App,Kemang,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0129,2025-05-09 21:59:00,2025-05-09 22:21:00,2025-05-09 22:41:00,SOLVED,Forgiven,Whatsapp,Moon Chicken,Phone,Tebet,Packaging issue,Label tidak sesuai,AM
+CMP-0130,2025-01-05 19:50:00,2025-01-05 20:03:00,2025-01-05 20:30:00,SOLVED,Misunderstanding clarified,Feedback,Bude Sari,Platform,Kemang,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Kitchen
+CMP-0131,2025-03-25 17:49:00,2025-03-25 17:54:00,2025-03-25 18:11:00,SOLVED,Replacement sent,Feedback,San Gyu,Platform,Bintaro,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0132,2025-04-12 16:44:00,2025-04-12 17:02:00,2025-04-12 20:45:00,SOLVED,Replacement sent,Social Media,Moon Chicken,Take Away,Kemang,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0133,2025-04-30 19:04:00,2025-04-30 19:30:00,2025-04-30 19:30:00,EXPIRED,No response,App,Bude Sari,Take Away,Tebet,Tekstur tidak sesuai,Kurang crispy,QC
+CMP-0134,2025-06-16 15:35:00,2025-06-16 15:45:00,2025-06-16 16:25:00,SOLVED,Forgiven,Feedback,Dari Pada,Take Away,Cikini,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0135,2025-04-01 11:46:00,2025-04-01 11:48:00,2025-04-01 15:11:00,SOLVED,Forgiven,Feedback,San Gyu,Take Away,Cikini,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0136,2025-01-28 17:53:00,2025-01-28 17:57:00,2025-01-28 19:26:00,EXPIRED,No response,Social Media,Ayam Koplo,Take Away,BSD,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0137,2025-05-02 13:35:00,2025-05-02 13:52:00,2025-05-02 14:42:00,SOLVED,Forgiven,Whatsapp,Bude Sari,Phone,Tebet,Tekstur tidak sesuai,Kurang crispy,Checker
+CMP-0138,2025-04-08 16:43:00,2025-04-08 16:49:00,2025-04-08 17:39:00,EXPIRED,No response,Social Media,San Gyu,Take Away,Cikini,Tech issue,Pembayaran gagal,Tech Team
+CMP-0139,2025-03-18 12:08:00,2025-03-18 12:10:00,,HANDLING,In progress,Feedback,Ayam Koplo,App,BSD,Packaging issue,Kemasan bocor,AM
+CMP-0140,2025-03-07 18:38:00,2025-03-07 18:44:00,,HANDLING,In progress,Feedback,San Gyu,Phone,Pamulang,Tech issue,Voucher error,Tech Team
+CMP-0141,2025-02-28 10:41:00,2025-02-28 11:05:00,,VALIDATING,Missing proof,App,San Gyu,App,BSD,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0142,2025-01-24 11:54:00,2025-01-24 12:02:00,2025-01-24 15:21:00,SOLVED,Misunderstanding clarified,Whatsapp,San Gyu,Take Away,Cikini,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0143,2025-02-18 16:02:00,2025-02-18 16:19:00,2025-02-18 17:03:00,SOLVED,Replacement sent,Social Media,Moon Chicken,Platform,Tebet,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0144,2025-05-22 18:40:00,2025-05-22 18:49:00,2025-05-22 19:58:00,SOLVED,Replacement sent,App,Dari Pada,Phone,Pluit,Packaging issue,Kemasan bocor,AM
+CMP-0145,2025-04-30 19:27:00,2025-04-30 19:39:00,2025-04-30 20:03:00,SOLVED,Replacement sent,Social Media,Moon Chicken,App,Kemang,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0146,2025-06-09 15:34:00,2025-06-09 15:40:00,2025-06-09 18:02:00,SOLVED,Forgiven,Feedback,Moon Chicken,Platform,Bintaro,Order tidak lengkap,Item kurang,Checker
+CMP-0147,2025-04-10 20:31:00,2025-04-10 20:35:00,2025-04-10 23:46:00,SOLVED,Misunderstanding clarified,Feedback,Bude Sari,Phone,Pamulang,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0148,2025-06-16 10:07:00,2025-06-16 10:11:00,2025-06-16 11:55:00,SOLVED,Refund,App,Bude Sari,Phone,Cikini,Rasa tidak sesuai,Keasinan,QC
+CMP-0149,2025-05-20 11:10:00,2025-05-20 11:14:00,2025-05-20 12:24:00,SOLVED,Refund,App,Bude Sari,Take Away,Bintaro,Tech issue,Voucher error,AM
+CMP-0150,2025-05-31 15:16:00,2025-05-31 15:26:00,2025-06-01 00:52:00,EXPIRED,No response,App,Bude Sari,Platform,Bintaro,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0151,2025-05-26 11:28:00,2025-05-26 11:40:00,2025-05-26 20:06:00,SOLVED,Misunderstanding clarified,Whatsapp,Moon Chicken,App,BSD,Packaging issue,Kemasan bocor,AM
+CMP-0152,2025-02-02 21:13:00,2025-02-02 21:26:00,2025-02-03 00:01:00,SOLVED,Forgiven,Feedback,San Gyu,Phone,Cikini,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0153,2025-06-29 16:53:00,2025-06-29 16:58:00,2025-06-29 18:24:00,SOLVED,Forgiven,Whatsapp,Bude Sari,App,Cikini,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0154,2025-04-21 12:22:00,2025-04-21 12:31:00,,HANDLING,In progress,Whatsapp,Ayam Koplo,Take Away,BSD,Packaging issue,Label tidak sesuai,AM
+CMP-0155,2025-03-31 09:00:00,2025-03-31 09:10:00,2025-03-31 09:20:00,SOLVED,Replacement sent,Whatsapp,San Gyu,App,Kemang,Rasa tidak sesuai,Basi,QC
+CMP-0156,2025-04-11 21:45:00,2025-04-11 21:52:00,2025-04-11 22:59:00,EXPIRED,No response,Social Media,San Gyu,Phone,Tebet,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0157,2025-06-23 20:55:00,2025-06-23 21:08:00,2025-06-24 09:41:00,SOLVED,Misunderstanding clarified,Feedback,Bude Sari,App,Pluit,Porsi tidak sesuai,Porsi terlalu sedikit,Cashier
+CMP-0158,2025-04-02 14:55:00,2025-04-02 14:56:00,2025-04-02 16:39:00,SOLVED,Forgiven,Social Media,Moon Chicken,App,Bintaro,Waktu pengiriman terlalu lama,Driver delay,Driver
+CMP-0159,2025-06-28 14:06:00,2025-06-28 14:16:00,2025-06-28 14:21:00,SOLVED,Forgiven,Social Media,Ayam Koplo,Platform,Bintaro,Tekstur tidak sesuai,Daging kering,Checker
+CMP-0160,2025-06-26 13:56:00,2025-06-26 13:59:00,2025-06-26 14:11:00,SOLVED,Replacement sent,App,San Gyu,Platform,Cibubur,Order tidak lengkap,Item kurang,Checker
+CMP-0161,2025-04-30 18:42:00,2025-04-30 18:53:00,2025-04-30 20:04:00,SOLVED,Forgiven,Whatsapp,San Gyu,Platform,Pluit,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0162,2025-05-20 14:29:00,2025-05-20 14:38:00,2025-05-20 15:29:00,SOLVED,Refund,Social Media,San Gyu,Take Away,Tebet,Order tidak lengkap,Item kurang,Checker
+CMP-0163,2025-03-21 21:40:00,2025-03-21 21:45:00,2025-03-21 22:29:00,SOLVED,Forgiven,Social Media,Bude Sari,Take Away,Pluit,Produk tidak sesuai dengan order,Menu tertukar,AM
+CMP-0164,2025-04-19 17:31:00,2025-04-19 17:34:00,2025-04-19 17:51:00,SOLVED,Misunderstanding clarified,App,San Gyu,App,Tebet,Tekstur tidak sesuai,Keras,Kitchen
+CMP-0165,2025-06-06 17:43:00,2025-06-06 17:51:00,2025-06-06 18:30:00,SOLVED,Refund,Whatsapp,Ayam Koplo,Platform,Pamulang,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0166,2025-01-02 16:33:00,2025-01-02 16:42:00,2025-01-02 17:31:00,SOLVED,Refund,Feedback,Dari Pada,Platform,Bintaro,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0167,2025-01-16 21:20:00,2025-01-16 21:27:00,,HANDLING,In progress,Feedback,Dari Pada,Take Away,Pamulang,Produk tidak sesuai dengan order,Menu tertukar,QC
+CMP-0168,2025-06-23 21:37:00,2025-06-23 21:43:00,2025-06-23 22:42:00,SOLVED,Refund,Social Media,Moon Chicken,Phone,Pluit,Tech issue,Voucher error,Tech Team
+CMP-0169,2025-02-26 13:19:00,2025-02-26 13:27:00,2025-02-26 14:42:00,SOLVED,Replacement sent,Feedback,Ayam Koplo,App,Pamulang,Rasa tidak sesuai,Basi,QC
+CMP-0170,2025-04-23 11:17:00,2025-04-23 11:59:00,2025-04-23 11:59:00,SOLVED,Misunderstanding clarified,Feedback,Dari Pada,Phone,Tebet,Rasa tidak sesuai,Keasinan,QC
+CMP-0171,2025-01-13 15:21:00,2025-01-13 15:25:00,2025-01-13 16:12:00,EXPIRED,No response,Feedback,Moon Chicken,Take Away,Bintaro,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0172,2025-03-07 11:05:00,2025-03-07 11:19:00,2025-03-07 11:57:00,SOLVED,Replacement sent,Feedback,San Gyu,Platform,Cikini,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0173,2025-02-19 20:50:00,2025-02-19 20:58:00,,HANDLING,In progress,Whatsapp,Moon Chicken,Platform,Cibubur,Tech issue,Voucher error,Tech Team
+CMP-0174,2025-02-06 19:02:00,2025-02-06 19:09:00,2025-02-06 19:15:00,SOLVED,Forgiven,Feedback,Dari Pada,Platform,Pamulang,Packaging issue,Kemasan rusak,AM
+CMP-0175,2025-04-11 12:54:00,2025-04-11 13:19:00,2025-04-11 13:43:00,SOLVED,Forgiven,App,San Gyu,Take Away,Cikini,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0176,2025-03-27 18:53:00,2025-03-27 19:03:00,2025-03-27 19:29:00,SOLVED,Refund,Whatsapp,San Gyu,App,Bintaro,Tech issue,Voucher error,Tech Team
+CMP-0177,2025-05-24 10:37:00,2025-05-24 10:49:00,2025-05-24 12:42:00,SOLVED,Misunderstanding clarified,Social Media,Bude Sari,Take Away,Tebet,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0178,2025-06-12 13:11:00,2025-06-12 13:28:00,2025-06-12 14:28:00,EXPIRED,No response,Social Media,Dari Pada,Platform,BSD,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0179,2025-02-22 09:07:00,2025-02-22 09:35:00,2025-02-22 09:35:00,SOLVED,Misunderstanding clarified,Feedback,Bude Sari,Take Away,Cibubur,Tech issue,App error,Checker
+CMP-0180,2025-05-30 12:03:00,2025-05-30 12:17:00,2025-05-30 13:42:00,SOLVED,Refund,Feedback,Dari Pada,Take Away,Cikini,Packaging issue,Label tidak sesuai,AM
+CMP-0181,2025-01-13 15:49:00,2025-01-13 15:54:00,2025-01-13 17:40:00,SOLVED,Misunderstanding clarified,Whatsapp,Ayam Koplo,App,Pamulang,Tech issue,Voucher error,Tech Team
+CMP-0182,2025-01-04 19:55:00,2025-01-04 20:02:00,2025-01-04 22:04:00,EXPIRED,No response,Social Media,Moon Chicken,Take Away,Bintaro,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0183,2025-06-06 14:42:00,2025-06-06 14:46:00,2025-06-06 15:27:00,SOLVED,Misunderstanding clarified,Social Media,Dari Pada,Phone,BSD,Tech issue,App error,Tech Team
+CMP-0184,2025-02-09 12:35:00,2025-02-09 12:41:00,2025-02-09 14:15:00,SOLVED,Misunderstanding clarified,Social Media,Dari Pada,Take Away,Tebet,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0185,2025-03-08 21:08:00,2025-03-08 21:13:00,2025-03-08 21:54:00,SOLVED,Replacement sent,Feedback,Moon Chicken,Take Away,Pamulang,Tech issue,Voucher error,Tech Team
+CMP-0186,2025-04-03 11:34:00,2025-04-03 11:37:00,2025-04-03 11:43:00,SOLVED,Misunderstanding clarified,Whatsapp,Bude Sari,App,Tebet,Porsi tidak sesuai,Porsi terlalu sedikit,Cashier
+CMP-0187,2025-05-16 09:29:00,2025-05-16 09:39:00,2025-05-16 12:23:00,SOLVED,Replacement sent,Feedback,Ayam Koplo,App,Cibubur,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0188,2025-01-04 10:07:00,2025-01-04 10:09:00,2025-01-04 10:48:00,SOLVED,Forgiven,App,San Gyu,Phone,Kemang,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0189,2025-02-22 14:33:00,2025-02-22 14:38:00,2025-02-22 15:06:00,SOLVED,Replacement sent,Feedback,San Gyu,App,Pamulang,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,QC
+CMP-0190,2025-02-11 14:27:00,2025-02-11 14:34:00,2025-02-11 19:46:00,SOLVED,Replacement sent,App,Ayam Koplo,Take Away,Kemang,Tech issue,App error,Cashier
+CMP-0191,2025-05-09 21:33:00,2025-05-09 21:36:00,2025-05-10 02:47:00,SOLVED,Refund,Feedback,Moon Chicken,Phone,Pluit,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0192,2025-01-06 09:49:00,2025-01-06 10:15:00,2025-01-06 11:16:00,SOLVED,Replacement sent,Whatsapp,Moon Chicken,Phone,Tebet,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0193,2025-03-31 12:40:00,2025-03-31 12:46:00,2025-03-31 12:57:00,SOLVED,Misunderstanding clarified,App,Moon Chicken,Platform,Pamulang,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0194,2025-06-26 09:42:00,2025-06-26 09:54:00,,VALIDATING,Missing proof,Social Media,Dari Pada,Phone,Pamulang,Tech issue,Pembayaran gagal,Tech Team
+CMP-0195,2025-04-15 11:26:00,2025-04-15 11:52:00,2025-04-15 11:52:00,SOLVED,Replacement sent,Feedback,Ayam Koplo,App,Pamulang,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0196,2025-03-25 20:41:00,2025-03-25 20:48:00,2025-03-25 21:49:00,SOLVED,Forgiven,Feedback,Dari Pada,Platform,Cikini,Tech issue,App error,Tech Team
+CMP-0197,2025-04-01 21:09:00,2025-04-01 21:20:00,2025-04-01 21:33:00,SOLVED,Forgiven,Social Media,Bude Sari,Platform,Pamulang,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0198,2025-05-03 18:44:00,2025-05-03 18:53:00,2025-05-03 19:29:00,EXPIRED,No response,Social Media,Ayam Koplo,App,Tebet,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0199,2025-06-16 09:44:00,2025-06-16 09:49:00,2025-06-16 10:38:00,SOLVED,Misunderstanding clarified,Feedback,Bude Sari,Platform,Cikini,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0200,2025-03-12 15:45:00,2025-03-12 15:56:00,2025-03-12 17:00:00,SOLVED,Forgiven,Feedback,Bude Sari,Phone,Tebet,Packaging issue,Label tidak sesuai,AM
+CMP-0201,2025-06-09 15:19:00,2025-06-09 15:28:00,2025-06-09 18:08:00,SOLVED,Misunderstanding clarified,Whatsapp,Bude Sari,App,Pamulang,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0202,2025-06-12 17:25:00,2025-06-12 17:35:00,2025-06-12 17:45:00,SOLVED,Misunderstanding clarified,Feedback,Ayam Koplo,Take Away,Pluit,Rasa tidak sesuai,Basi,QC
+CMP-0203,2025-06-05 13:22:00,2025-06-05 13:31:00,2025-06-05 13:44:00,SOLVED,Forgiven,App,Ayam Koplo,App,BSD,Produk tidak sesuai dengan order,Varian salah,Kitchen
+CMP-0204,2025-01-28 19:07:00,2025-01-28 19:14:00,2025-01-28 19:50:00,SOLVED,Misunderstanding clarified,Feedback,Bude Sari,Phone,BSD,Tech issue,Voucher error,Tech Team
+CMP-0205,2025-04-10 16:50:00,2025-04-10 17:06:00,2025-04-10 19:08:00,SOLVED,Forgiven,Whatsapp,Moon Chicken,Platform,Bintaro,Rasa tidak sesuai,Kurang rasa,Kitchen
+CMP-0206,2025-06-10 11:29:00,2025-06-10 11:34:00,2025-06-10 12:56:00,SOLVED,Replacement sent,Whatsapp,San Gyu,App,Bintaro,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0207,2025-04-08 16:26:00,2025-04-08 16:28:00,,HANDLING,In progress,App,San Gyu,Platform,Bintaro,Packaging issue,Kemasan rusak,AM
+CMP-0208,2025-05-23 20:19:00,2025-05-23 20:26:00,2025-05-23 23:49:00,EXPIRED,No response,Whatsapp,San Gyu,Phone,Kemang,Order tidak lengkap,Item kurang,Checker
+CMP-0209,2025-04-22 19:54:00,2025-04-22 20:05:00,2025-04-22 21:07:00,SOLVED,Misunderstanding clarified,Whatsapp,Moon Chicken,Phone,Pluit,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0210,2025-02-10 11:29:00,2025-02-10 11:34:00,2025-02-10 11:59:00,EXPIRED,No response,Feedback,Dari Pada,Platform,Tebet,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0211,2025-02-09 09:58:00,2025-02-09 10:25:00,2025-02-09 13:36:00,SOLVED,Refund,Feedback,Moon Chicken,Take Away,Pluit,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0212,2025-01-09 14:35:00,2025-01-09 14:40:00,2025-01-09 15:10:00,SOLVED,Replacement sent,App,Ayam Koplo,Platform,Pamulang,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0213,2025-02-23 20:11:00,2025-02-23 20:25:00,2025-02-23 21:12:00,SOLVED,Replacement sent,Social Media,San Gyu,Platform,Cibubur,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0214,2025-03-11 12:52:00,2025-03-11 12:57:00,2025-03-11 13:42:00,SOLVED,Forgiven,Whatsapp,Moon Chicken,Take Away,Tebet,Packaging issue,Kemasan bocor,AM
+CMP-0215,2025-04-04 12:03:00,2025-04-04 12:14:00,2025-04-04 12:34:00,SOLVED,Replacement sent,Feedback,San Gyu,Platform,Tebet,Rasa tidak sesuai,Keasinan,QC
+CMP-0216,2025-06-28 11:15:00,2025-06-28 11:37:00,2025-06-28 11:53:00,SOLVED,Replacement sent,Whatsapp,Dari Pada,Take Away,Cikini,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0217,2025-03-08 10:36:00,2025-03-08 10:40:00,2025-03-08 11:27:00,SOLVED,Replacement sent,App,Ayam Koplo,Phone,Tebet,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0218,2025-02-20 13:50:00,2025-02-20 14:04:00,2025-02-20 14:37:00,SOLVED,Replacement sent,App,Dari Pada,App,Bintaro,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0219,2025-06-29 18:44:00,2025-06-29 18:50:00,2025-06-29 19:02:00,SOLVED,Refund,App,Ayam Koplo,App,Tebet,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0220,2025-05-12 21:07:00,2025-05-12 21:35:00,2025-05-12 21:35:00,SOLVED,Refund,Social Media,Ayam Koplo,Platform,Tebet,Order tidak lengkap,Item kurang,Checker
+CMP-0221,2025-04-16 15:56:00,2025-04-16 16:00:00,2025-04-16 16:32:00,SOLVED,Misunderstanding clarified,App,Moon Chicken,App,Bintaro,Order tidak lengkap,Minuman tidak ada,Kitchen
+CMP-0222,2025-05-03 09:38:00,2025-05-03 09:41:00,,VALIDATING,Missing proof,Whatsapp,Dari Pada,Platform,Cikini,Tech issue,Voucher error,Tech Team
+CMP-0223,2025-05-08 11:18:00,2025-05-08 11:23:00,2025-05-08 14:20:00,SOLVED,Misunderstanding clarified,Feedback,San Gyu,App,Kemang,Packaging issue,Kemasan bocor,AM
+CMP-0224,2025-05-31 16:48:00,2025-05-31 17:12:00,2025-05-31 17:50:00,SOLVED,Misunderstanding clarified,Feedback,Bude Sari,Phone,Kemang,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0225,2025-01-02 14:07:00,2025-01-02 14:13:00,2025-01-02 15:13:00,SOLVED,Misunderstanding clarified,Whatsapp,Dari Pada,Phone,Kemang,Tech issue,Pembayaran gagal,Kitchen
+CMP-0226,2025-03-16 14:43:00,2025-03-16 15:05:00,2025-03-16 15:05:00,SOLVED,Refund,Feedback,San Gyu,Phone,Pluit,Rasa tidak sesuai,Basi,QC
+CMP-0227,2025-02-08 15:11:00,2025-02-08 15:19:00,2025-02-08 18:14:00,SOLVED,Refund,Feedback,Ayam Koplo,Take Away,Cikini,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0228,2025-01-01 11:59:00,2025-01-01 12:24:00,2025-01-01 13:38:00,EXPIRED,No response,Social Media,Ayam Koplo,Take Away,Cibubur,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0229,2025-01-20 17:46:00,2025-01-20 17:49:00,2025-01-20 19:44:00,SOLVED,Replacement sent,Social Media,Bude Sari,Take Away,Pamulang,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0230,2025-05-23 15:26:00,2025-05-23 15:49:00,,HANDLING,In progress,Feedback,San Gyu,Platform,Pluit,Tech issue,Voucher error,Tech Team
+CMP-0231,2025-04-11 11:57:00,2025-04-11 12:06:00,,VALIDATING,Missing proof,Whatsapp,Ayam Koplo,Phone,Pamulang,Packaging issue,Kemasan rusak,AM
+CMP-0232,2025-03-13 14:31:00,2025-03-13 14:45:00,2025-03-13 15:10:00,SOLVED,Replacement sent,Whatsapp,Dari Pada,Take Away,Cibubur,Tekstur tidak sesuai,Kurang crispy,Driver
+CMP-0233,2025-06-27 12:11:00,2025-06-27 12:30:00,2025-06-27 14:05:00,SOLVED,Forgiven,App,San Gyu,Take Away,Cibubur,Packaging issue,Kemasan rusak,AM
+CMP-0234,2025-06-09 16:41:00,2025-06-09 16:45:00,2025-06-09 23:00:00,SOLVED,Replacement sent,Whatsapp,Ayam Koplo,App,Cikini,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0235,2025-04-12 18:02:00,2025-04-12 18:11:00,2025-04-12 21:07:00,SOLVED,Replacement sent,Feedback,Moon Chicken,Platform,Pamulang,Packaging issue,Label tidak sesuai,AM
+CMP-0236,2025-06-04 20:34:00,2025-06-04 20:56:00,2025-06-04 20:56:00,EXPIRED,No response,App,Moon Chicken,App,Pamulang,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0237,2025-05-08 14:44:00,2025-05-08 14:48:00,2025-05-08 15:07:00,SOLVED,Refund,Feedback,Ayam Koplo,Take Away,Pluit,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0238,2025-05-27 21:26:00,2025-05-27 21:34:00,2025-05-28 02:28:00,EXPIRED,No response,App,Ayam Koplo,App,Pluit,Packaging issue,Kemasan bocor,AM
+CMP-0239,2025-04-09 19:27:00,2025-04-09 19:32:00,2025-04-09 22:38:00,SOLVED,Replacement sent,App,Moon Chicken,App,Pamulang,Packaging issue,Label tidak sesuai,AM
+CMP-0240,2025-02-01 14:32:00,2025-02-01 14:38:00,2025-02-01 15:33:00,EXPIRED,No response,App,Moon Chicken,Phone,Cibubur,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0241,2025-04-30 10:53:00,2025-04-30 11:01:00,2025-04-30 12:52:00,SOLVED,Replacement sent,Social Media,Ayam Koplo,Take Away,Pamulang,Tech issue,App error,Tech Team
+CMP-0242,2025-01-08 17:36:00,2025-01-08 17:51:00,2025-01-08 18:29:00,SOLVED,Refund,Whatsapp,Bude Sari,Take Away,Cikini,Packaging issue,Label tidak sesuai,Kitchen
+CMP-0243,2025-04-06 18:04:00,2025-04-06 18:30:00,2025-04-06 18:30:00,SOLVED,Refund,Feedback,San Gyu,App,Tebet,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0244,2025-01-20 21:33:00,2025-01-20 21:34:00,2025-01-21 00:07:00,EXPIRED,No response,App,Bude Sari,Take Away,Bintaro,Order tidak lengkap,Item kurang,Kitchen
+CMP-0245,2025-01-17 15:02:00,2025-01-17 15:13:00,2025-01-17 15:49:00,SOLVED,Refund,Social Media,Bude Sari,Take Away,Kemang,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0246,2025-01-08 21:10:00,2025-01-08 21:11:00,2025-01-08 22:21:00,SOLVED,Misunderstanding clarified,Whatsapp,Moon Chicken,App,Cikini,Tech issue,Pembayaran gagal,Cashier
+CMP-0247,2025-01-28 18:00:00,2025-01-28 18:06:00,2025-01-28 18:28:00,EXPIRED,No response,App,Dari Pada,Take Away,BSD,Packaging issue,Kemasan bocor,AM
+CMP-0248,2025-01-29 12:39:00,2025-01-29 12:51:00,2025-01-29 17:10:00,EXPIRED,No response,Whatsapp,Moon Chicken,Phone,Kemang,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0249,2025-04-29 17:16:00,2025-04-29 17:22:00,2025-04-29 18:42:00,SOLVED,Forgiven,App,Moon Chicken,Take Away,Bintaro,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0250,2025-05-26 21:21:00,2025-05-26 21:34:00,2025-05-27 06:21:00,SOLVED,Forgiven,Feedback,Bude Sari,App,Pluit,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0251,2025-03-03 12:54:00,2025-03-03 12:58:00,2025-03-03 15:46:00,SOLVED,Forgiven,Whatsapp,Bude Sari,App,Bintaro,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0252,2025-04-30 09:18:00,2025-04-30 09:30:00,2025-04-30 10:33:00,EXPIRED,No response,App,Moon Chicken,App,Tebet,Tech issue,Pembayaran gagal,Kitchen
+CMP-0253,2025-01-19 09:30:00,2025-01-19 09:36:00,2025-01-19 10:52:00,SOLVED,Forgiven,Whatsapp,Dari Pada,Take Away,Tebet,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0254,2025-06-16 21:33:00,2025-06-16 21:43:00,2025-06-16 22:17:00,SOLVED,Forgiven,Whatsapp,Bude Sari,Take Away,Tebet,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0255,2025-01-02 10:20:00,2025-01-02 10:27:00,,HANDLING,In progress,App,Moon Chicken,Phone,Tebet,Rasa tidak sesuai,Keasinan,Kitchen
+CMP-0256,2025-01-08 20:26:00,2025-01-08 20:32:00,2025-01-08 23:45:00,SOLVED,Misunderstanding clarified,App,Bude Sari,Take Away,Kemang,Tekstur tidak sesuai,Keras,Kitchen
+CMP-0257,2025-02-11 20:09:00,2025-02-11 20:14:00,2025-02-11 20:31:00,SOLVED,Refund,Social Media,Dari Pada,App,Cikini,Tech issue,Pembayaran gagal,Tech Team
+CMP-0258,2025-05-17 11:45:00,2025-05-17 11:50:00,2025-05-17 13:09:00,SOLVED,Forgiven,Feedback,Moon Chicken,Take Away,Cikini,Rasa tidak sesuai,Keasinan,QC
+CMP-0259,2025-02-25 13:54:00,2025-02-25 14:05:00,2025-02-25 14:36:00,SOLVED,Replacement sent,Whatsapp,San Gyu,App,BSD,Order tidak lengkap,Item kurang,Checker
+CMP-0260,2025-02-23 19:56:00,2025-02-23 20:07:00,2025-02-23 20:18:00,SOLVED,Replacement sent,Whatsapp,Dari Pada,Platform,Pluit,Packaging issue,Label tidak sesuai,AM
+CMP-0261,2025-05-11 20:44:00,2025-05-11 20:49:00,2025-05-11 22:48:00,EXPIRED,No response,Whatsapp,Bude Sari,Take Away,Pluit,Packaging issue,Kemasan bocor,AM
+CMP-0262,2025-03-29 14:30:00,2025-03-29 14:40:00,2025-03-29 17:04:00,SOLVED,Misunderstanding clarified,App,Moon Chicken,Platform,BSD,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0263,2025-02-06 17:12:00,2025-02-06 17:21:00,,VALIDATING,Missing proof,Social Media,Moon Chicken,Platform,BSD,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0264,2025-02-15 11:21:00,2025-02-15 11:29:00,2025-02-15 11:31:00,SOLVED,Forgiven,Social Media,San Gyu,App,Cikini,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0265,2025-02-19 12:44:00,2025-02-19 13:11:00,2025-02-19 13:50:00,SOLVED,Forgiven,Feedback,San Gyu,Take Away,Bintaro,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0266,2025-05-05 17:11:00,2025-05-05 17:16:00,2025-05-05 22:45:00,SOLVED,Refund,Feedback,Ayam Koplo,Platform,BSD,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0267,2025-05-25 19:25:00,2025-05-25 19:30:00,2025-05-25 21:55:00,SOLVED,Misunderstanding clarified,Feedback,Moon Chicken,Platform,Kemang,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,AM
+CMP-0268,2025-02-03 10:16:00,2025-02-03 10:27:00,2025-02-03 11:27:00,SOLVED,Replacement sent,App,San Gyu,Take Away,Tebet,Tech issue,Voucher error,Tech Team
+CMP-0269,2025-01-09 18:10:00,2025-01-09 18:12:00,2025-01-09 19:05:00,EXPIRED,No response,Social Media,Bude Sari,App,Pluit,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0270,2025-01-05 19:12:00,2025-01-05 19:26:00,2025-01-05 20:03:00,SOLVED,Replacement sent,App,Moon Chicken,Platform,Cibubur,Tech issue,Voucher error,Tech Team
+CMP-0271,2025-04-03 17:15:00,2025-04-03 17:25:00,2025-04-03 19:55:00,SOLVED,Misunderstanding clarified,Social Media,Moon Chicken,Phone,Cibubur,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0272,2025-03-24 09:32:00,2025-03-24 09:43:00,2025-03-24 11:12:00,SOLVED,Forgiven,Feedback,Ayam Koplo,Platform,Cikini,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0273,2025-05-24 11:03:00,2025-05-24 11:22:00,2025-05-24 11:33:00,SOLVED,Forgiven,App,Bude Sari,App,Pluit,Packaging issue,Kemasan rusak,AM
+CMP-0274,2025-05-26 20:17:00,2025-05-26 20:22:00,2025-05-26 21:13:00,EXPIRED,No response,Feedback,Ayam Koplo,Platform,Pamulang,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0275,2025-05-08 20:13:00,2025-05-08 20:22:00,,VALIDATING,Missing proof,Feedback,Dari Pada,Platform,Bintaro,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0276,2025-05-15 13:23:00,2025-05-15 13:30:00,2025-05-15 16:27:00,SOLVED,Misunderstanding clarified,App,Moon Chicken,Take Away,Cibubur,Rasa tidak sesuai,Kurang rasa,Checker
+CMP-0277,2025-02-23 18:15:00,2025-02-23 18:27:00,2025-02-23 21:52:00,SOLVED,Refund,App,Bude Sari,Take Away,Pluit,Waktu pengiriman terlalu lama,Driver delay,Checker
+CMP-0278,2025-01-10 17:42:00,2025-01-10 18:27:00,2025-01-10 19:10:00,SOLVED,Forgiven,Whatsapp,Bude Sari,Phone,BSD,Tekstur tidak sesuai,Kurang crispy,Kitchen
+CMP-0279,2025-05-04 20:49:00,2025-05-04 21:14:00,,VALIDATING,Missing proof,Social Media,Ayam Koplo,Platform,BSD,Order tidak lengkap,Item kurang,Checker
+CMP-0280,2025-03-19 20:04:00,2025-03-19 20:13:00,2025-03-19 20:54:00,SOLVED,Refund,Feedback,Ayam Koplo,Platform,Tebet,Packaging issue,Kemasan bocor,AM
+CMP-0281,2025-01-02 11:57:00,2025-01-02 12:01:00,2025-01-02 13:07:00,SOLVED,Misunderstanding clarified,App,Ayam Koplo,Platform,Pamulang,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0282,2025-03-08 14:41:00,2025-03-08 14:43:00,2025-03-08 16:32:00,EXPIRED,No response,App,Moon Chicken,Take Away,Pamulang,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0283,2025-05-09 17:23:00,2025-05-09 17:28:00,2025-05-09 18:56:00,EXPIRED,No response,App,Ayam Koplo,Phone,Kemang,Tekstur tidak sesuai,Keras,Kitchen
+CMP-0284,2025-02-18 21:04:00,2025-02-18 21:12:00,2025-02-18 21:27:00,SOLVED,Forgiven,Whatsapp,Bude Sari,Phone,Bintaro,Tech issue,App error,Tech Team
+CMP-0285,2025-05-09 16:13:00,2025-05-09 16:18:00,2025-05-09 18:41:00,SOLVED,Refund,App,Moon Chicken,Platform,Kemang,Produk tidak sesuai dengan order,Menu tertukar,Admin
+CMP-0286,2025-02-03 11:41:00,2025-02-03 11:47:00,2025-02-03 12:00:00,SOLVED,Misunderstanding clarified,Social Media,Ayam Koplo,Take Away,Cibubur,Order tidak lengkap,Item kurang,Checker
+CMP-0287,2025-03-02 11:34:00,2025-03-02 11:36:00,2025-03-02 13:41:00,SOLVED,Replacement sent,Whatsapp,Ayam Koplo,App,Cibubur,Tekstur tidak sesuai,Keras,Kitchen
+CMP-0288,2025-06-09 15:36:00,2025-06-09 15:41:00,2025-06-09 19:31:00,SOLVED,Forgiven,Social Media,Bude Sari,App,Tebet,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0289,2025-01-27 16:46:00,2025-01-27 17:14:00,2025-01-27 17:30:00,SOLVED,Replacement sent,Whatsapp,San Gyu,App,Pluit,Rasa tidak sesuai,Keasinan,QC
+CMP-0290,2025-06-21 11:18:00,2025-06-21 11:23:00,2025-06-21 13:48:00,SOLVED,Replacement sent,App,Moon Chicken,Phone,Cikini,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0291,2025-05-22 10:59:00,2025-05-22 11:04:00,2025-05-22 15:17:00,SOLVED,Refund,Feedback,San Gyu,App,BSD,Rasa tidak sesuai,Basi,QC
+CMP-0292,2025-05-12 14:46:00,2025-05-12 14:49:00,2025-05-12 21:27:00,SOLVED,Replacement sent,Feedback,Moon Chicken,App,Pamulang,Porsi tidak sesuai,Porsi terlalu sedikit,Driver
+CMP-0293,2025-01-03 13:20:00,2025-01-03 13:33:00,2025-01-03 14:12:00,SOLVED,Forgiven,App,Moon Chicken,Take Away,Cikini,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0294,2025-02-28 09:12:00,2025-02-28 09:53:00,2025-02-28 09:53:00,SOLVED,Misunderstanding clarified,Whatsapp,Dari Pada,App,Bintaro,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0295,2025-03-28 20:26:00,2025-03-28 20:47:00,2025-03-29 03:23:00,SOLVED,Refund,Social Media,San Gyu,App,Pluit,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0296,2025-01-26 11:01:00,2025-01-26 11:12:00,2025-01-26 12:07:00,EXPIRED,No response,App,Moon Chicken,Take Away,Kemang,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0297,2025-06-11 18:50:00,2025-06-11 18:59:00,2025-06-11 21:32:00,SOLVED,Forgiven,Social Media,San Gyu,Take Away,Cikini,Tech issue,Pembayaran gagal,Tech Team
+CMP-0298,2025-06-20 12:52:00,2025-06-20 13:04:00,2025-06-20 13:56:00,SOLVED,Refund,Social Media,Ayam Koplo,Platform,Cikini,Porsi tidak sesuai,Ukuran tidak sesuai,Cashier
+CMP-0299,2025-05-15 13:57:00,2025-05-15 14:08:00,2025-05-15 15:29:00,SOLVED,Misunderstanding clarified,Whatsapp,Moon Chicken,App,Bintaro,Produk tidak sesuai dengan order,Varian salah,Cashier
+CMP-0300,2025-05-06 18:19:00,2025-05-06 18:27:00,,HANDLING,In progress,App,Ayam Koplo,App,BSD,Order tidak lengkap,Minuman tidak ada,QC
+CMP-0301,2025-05-11 16:53:00,2025-05-11 17:11:00,2025-05-11 17:47:00,SOLVED,Misunderstanding clarified,App,Dari Pada,App,Bintaro,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0302,2025-05-12 19:43:00,2025-05-12 19:57:00,2025-05-12 22:52:00,SOLVED,Refund,Whatsapp,Moon Chicken,Take Away,Tebet,Tech issue,App error,Tech Team
+CMP-0303,2025-02-21 18:59:00,2025-02-21 19:20:00,2025-02-22 00:04:00,SOLVED,Forgiven,Social Media,Bude Sari,Phone,Bintaro,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0304,2025-05-20 14:44:00,2025-05-20 15:00:00,2025-05-20 15:47:00,SOLVED,Forgiven,App,Ayam Koplo,App,Bintaro,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0305,2025-05-31 14:23:00,2025-05-31 14:30:00,,HANDLING,In progress,App,Dari Pada,Phone,Pamulang,Rasa tidak sesuai,Basi,QC
+CMP-0306,2025-05-01 19:06:00,2025-05-01 19:12:00,2025-05-02 00:57:00,SOLVED,Forgiven,App,Dari Pada,Platform,Pluit,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0307,2025-05-27 18:21:00,2025-05-27 18:23:00,2025-05-27 21:00:00,SOLVED,Forgiven,Social Media,Moon Chicken,Phone,Cibubur,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0308,2025-06-23 12:44:00,2025-06-23 12:49:00,,HANDLING,In progress,App,Ayam Koplo,Take Away,BSD,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0309,2025-03-25 19:54:00,2025-03-25 20:05:00,2025-03-26 00:21:00,SOLVED,Misunderstanding clarified,Social Media,Moon Chicken,Phone,Cikini,Tech issue,Pembayaran gagal,Cashier
+CMP-0310,2025-06-26 15:26:00,2025-06-26 15:37:00,2025-06-26 16:16:00,SOLVED,Replacement sent,App,Moon Chicken,Platform,Bintaro,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0311,2025-02-06 18:24:00,2025-02-06 18:31:00,2025-02-06 21:19:00,SOLVED,Refund,App,Ayam Koplo,Platform,BSD,Rasa tidak sesuai,Keasinan,QC
+CMP-0312,2025-06-05 15:06:00,2025-06-05 15:12:00,2025-06-05 15:45:00,SOLVED,Misunderstanding clarified,Feedback,San Gyu,Take Away,Tebet,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0313,2025-06-09 20:37:00,2025-06-09 21:02:00,,HANDLING,In progress,Feedback,Bude Sari,Phone,Kemang,Order tidak lengkap,Item kurang,Cashier
+CMP-0314,2025-05-08 11:59:00,2025-05-08 12:04:00,2025-05-08 13:48:00,SOLVED,Forgiven,Whatsapp,Ayam Koplo,Take Away,Kemang,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0315,2025-04-07 12:15:00,2025-04-07 12:27:00,2025-04-07 14:43:00,SOLVED,Forgiven,Social Media,Ayam Koplo,Take Away,Kemang,Packaging issue,Kemasan rusak,Checker
+CMP-0316,2025-05-06 21:55:00,2025-05-06 22:21:00,2025-05-06 22:21:00,SOLVED,Refund,Whatsapp,Ayam Koplo,Phone,BSD,Order tidak lengkap,Item kurang,Checker
+CMP-0317,2025-01-30 19:20:00,2025-01-30 19:29:00,2025-01-30 20:31:00,SOLVED,Misunderstanding clarified,Whatsapp,Bude Sari,Phone,Pamulang,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0318,2025-02-22 17:40:00,2025-02-22 17:41:00,2025-02-22 18:50:00,EXPIRED,No response,Feedback,Dari Pada,Take Away,Pamulang,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0319,2025-03-17 09:54:00,2025-03-17 10:01:00,2025-03-17 10:13:00,SOLVED,Replacement sent,App,San Gyu,Take Away,BSD,Tekstur tidak sesuai,Kurang crispy,Kitchen
+CMP-0320,2025-06-05 12:09:00,2025-06-05 12:14:00,,VALIDATING,Missing proof,Social Media,Moon Chicken,Take Away,Pluit,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0321,2025-05-01 14:20:00,2025-05-01 14:33:00,2025-05-01 15:21:00,SOLVED,Forgiven,Feedback,Bude Sari,Phone,Bintaro,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0322,2025-03-10 18:36:00,2025-03-10 18:42:00,,VALIDATING,Missing proof,Social Media,Moon Chicken,App,Cibubur,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0323,2025-03-26 15:34:00,2025-03-26 15:36:00,2025-03-26 20:35:00,EXPIRED,No response,Social Media,San Gyu,App,Kemang,Tekstur tidak sesuai,Kurang crispy,Kitchen
+CMP-0324,2025-06-12 12:22:00,2025-06-12 12:25:00,2025-06-12 15:03:00,SOLVED,Refund,App,San Gyu,Take Away,Bintaro,Tekstur tidak sesuai,Keras,Kitchen
+CMP-0325,2025-05-10 20:18:00,2025-05-10 20:21:00,2025-05-10 23:49:00,SOLVED,Replacement sent,Social Media,Ayam Koplo,Platform,Tebet,Rasa tidak sesuai,Basi,QC
+CMP-0326,2025-05-31 18:05:00,2025-05-31 18:13:00,2025-05-31 22:12:00,SOLVED,Replacement sent,App,Moon Chicken,App,Bintaro,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0327,2025-03-11 17:46:00,2025-03-11 17:58:00,2025-03-11 17:58:00,SOLVED,Misunderstanding clarified,Whatsapp,Bude Sari,Platform,Cikini,Tekstur tidak sesuai,Kurang crispy,Kitchen
+CMP-0328,2025-02-06 11:46:00,2025-02-06 11:49:00,2025-02-06 14:35:00,SOLVED,Replacement sent,Whatsapp,Ayam Koplo,Platform,Pluit,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0329,2025-03-02 21:54:00,2025-03-02 22:15:00,2025-03-02 22:53:00,SOLVED,Replacement sent,App,Ayam Koplo,Platform,Cikini,Order tidak lengkap,Side dish tidak ada,QC
+CMP-0330,2025-01-10 19:18:00,2025-01-10 19:49:00,2025-01-10 20:14:00,EXPIRED,No response,Social Media,Ayam Koplo,Platform,Tebet,Tekstur tidak sesuai,Keras,Kitchen
+CMP-0331,2025-04-25 13:10:00,2025-04-25 13:20:00,,VALIDATING,Missing proof,Feedback,Ayam Koplo,Take Away,Pamulang,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0332,2025-01-15 13:51:00,2025-01-15 13:59:00,2025-01-15 17:48:00,SOLVED,Replacement sent,Whatsapp,San Gyu,App,Kemang,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0333,2025-02-27 20:17:00,2025-02-27 20:25:00,2025-02-27 21:12:00,SOLVED,Misunderstanding clarified,Feedback,Moon Chicken,Platform,Bintaro,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0334,2025-04-17 20:44:00,2025-04-17 20:47:00,2025-04-17 21:25:00,SOLVED,Replacement sent,Whatsapp,Moon Chicken,Platform,Pluit,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0335,2025-04-25 13:58:00,2025-04-25 14:01:00,2025-04-25 15:32:00,SOLVED,Replacement sent,App,Dari Pada,App,Cibubur,Rasa tidak sesuai,Keasinan,QC
+CMP-0336,2025-03-24 13:05:00,2025-03-24 13:16:00,,VALIDATING,Missing proof,Social Media,Ayam Koplo,App,Pamulang,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0337,2025-02-03 10:33:00,2025-02-03 10:36:00,2025-02-03 10:57:00,EXPIRED,No response,Social Media,Ayam Koplo,Platform,Pluit,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,AM
+CMP-0338,2025-06-14 18:39:00,2025-06-14 18:43:00,2025-06-14 20:45:00,SOLVED,Replacement sent,Feedback,San Gyu,Take Away,Bintaro,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0339,2025-06-03 12:09:00,2025-06-03 12:33:00,2025-06-03 15:10:00,SOLVED,Forgiven,Social Media,Dari Pada,Platform,Pamulang,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0340,2025-04-13 21:05:00,2025-04-13 21:17:00,2025-04-13 21:32:00,SOLVED,Refund,Social Media,San Gyu,App,Cibubur,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0341,2025-06-23 13:21:00,2025-06-23 13:27:00,2025-06-23 18:51:00,SOLVED,Misunderstanding clarified,Whatsapp,Moon Chicken,Take Away,Pamulang,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0342,2025-05-01 10:51:00,2025-05-01 10:55:00,2025-05-01 11:53:00,SOLVED,Refund,Social Media,Bude Sari,App,Tebet,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0343,2025-01-16 20:30:00,2025-01-16 20:37:00,2025-01-16 22:54:00,SOLVED,Misunderstanding clarified,App,San Gyu,Platform,Kemang,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0344,2025-06-02 13:21:00,2025-06-02 13:50:00,2025-06-02 13:51:00,SOLVED,Replacement sent,App,Bude Sari,Phone,BSD,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0345,2025-02-22 09:20:00,2025-02-22 09:23:00,2025-02-22 10:47:00,SOLVED,Misunderstanding clarified,App,San Gyu,App,Tebet,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0346,2025-02-01 13:03:00,2025-02-01 13:08:00,2025-02-01 14:54:00,SOLVED,Refund,Feedback,Bude Sari,Take Away,Pamulang,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0347,2025-05-14 18:23:00,2025-05-14 18:29:00,2025-05-14 21:18:00,EXPIRED,No response,Feedback,San Gyu,Phone,Cibubur,Packaging issue,Label tidak sesuai,Cashier
+CMP-0348,2025-01-27 13:26:00,2025-01-27 13:36:00,2025-01-27 16:04:00,SOLVED,Forgiven,Feedback,Moon Chicken,App,Pamulang,Tech issue,Voucher error,Tech Team
+CMP-0349,2025-06-29 14:56:00,2025-06-29 14:58:00,2025-06-29 15:48:00,SOLVED,Misunderstanding clarified,Feedback,Ayam Koplo,Platform,Tebet,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0350,2025-06-08 21:13:00,2025-06-08 21:15:00,,VALIDATING,Missing proof,Social Media,Moon Chicken,App,Cikini,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0351,2025-01-01 11:45:00,2025-01-01 11:50:00,,HANDLING,In progress,Social Media,Dari Pada,Phone,Cibubur,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0352,2025-02-26 14:28:00,2025-02-26 14:36:00,2025-02-26 15:07:00,EXPIRED,No response,Feedback,Moon Chicken,App,Cibubur,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0353,2025-02-13 20:14:00,2025-02-13 20:18:00,2025-02-13 22:29:00,SOLVED,Refund,Feedback,San Gyu,Platform,Pluit,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0354,2025-03-23 18:40:00,2025-03-23 19:04:00,2025-03-23 19:04:00,SOLVED,Refund,Feedback,San Gyu,App,Cibubur,Tekstur tidak sesuai,Kurang crispy,Kitchen
+CMP-0355,2025-01-18 12:01:00,2025-01-18 12:30:00,2025-01-18 13:47:00,SOLVED,Misunderstanding clarified,Feedback,Moon Chicken,Platform,Bintaro,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0356,2025-03-28 15:21:00,2025-03-28 15:25:00,2025-03-28 20:05:00,EXPIRED,No response,Whatsapp,Moon Chicken,Platform,Kemang,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0357,2025-01-02 10:00:00,2025-01-02 10:21:00,2025-01-02 10:21:00,SOLVED,Forgiven,Whatsapp,Ayam Koplo,Phone,Pamulang,Packaging issue,Kemasan bocor,QC
+CMP-0358,2025-03-13 13:37:00,2025-03-13 13:42:00,2025-03-13 17:20:00,SOLVED,Forgiven,Feedback,Ayam Koplo,Platform,Pamulang,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0359,2025-04-02 15:50:00,2025-04-02 15:57:00,,HANDLING,In progress,Feedback,Ayam Koplo,Phone,Cikini,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0360,2025-06-12 11:04:00,2025-06-12 11:17:00,2025-06-12 14:54:00,SOLVED,Refund,App,San Gyu,Take Away,BSD,Tech issue,Voucher error,Tech Team
+CMP-0361,2025-03-16 20:28:00,2025-03-16 20:33:00,2025-03-16 21:23:00,SOLVED,Refund,Feedback,Bude Sari,Phone,Cibubur,Rasa tidak sesuai,Basi,QC
+CMP-0362,2025-02-08 10:42:00,2025-02-08 10:51:00,2025-02-08 12:36:00,SOLVED,Refund,App,Dari Pada,Phone,Bintaro,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0363,2025-06-15 18:43:00,2025-06-15 18:55:00,2025-06-15 19:39:00,EXPIRED,No response,App,Dari Pada,Take Away,BSD,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0364,2025-02-09 13:18:00,2025-02-09 13:23:00,2025-02-09 15:46:00,SOLVED,Replacement sent,App,Moon Chicken,App,Kemang,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0365,2025-04-06 13:08:00,2025-04-06 13:14:00,,VALIDATING,Missing proof,Whatsapp,Moon Chicken,Platform,Bintaro,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0366,2025-03-22 21:55:00,2025-03-22 22:01:00,2025-03-23 06:01:00,SOLVED,Forgiven,App,Bude Sari,Take Away,BSD,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0367,2025-04-15 15:57:00,2025-04-15 15:58:00,2025-04-15 19:34:00,SOLVED,Misunderstanding clarified,Feedback,Moon Chicken,App,Bintaro,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0368,2025-02-19 17:01:00,2025-02-19 17:14:00,2025-02-19 18:35:00,SOLVED,Misunderstanding clarified,App,San Gyu,App,BSD,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0369,2025-02-02 09:49:00,2025-02-02 10:14:00,,HANDLING,In progress,Social Media,San Gyu,Take Away,Kemang,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0370,2025-06-12 17:33:00,2025-06-12 17:40:00,2025-06-12 18:31:00,SOLVED,Forgiven,Feedback,Moon Chicken,Take Away,Tebet,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0371,2025-05-23 13:45:00,2025-05-23 13:59:00,2025-05-23 14:35:00,SOLVED,Refund,Feedback,Dari Pada,Take Away,Kemang,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0372,2025-03-11 13:03:00,2025-03-11 13:05:00,2025-03-11 16:08:00,SOLVED,Replacement sent,Feedback,Dari Pada,Platform,Kemang,Rasa tidak sesuai,Keasinan,Checker
+CMP-0373,2025-04-14 14:08:00,2025-04-14 14:16:00,2025-04-14 17:46:00,SOLVED,Replacement sent,App,Bude Sari,Phone,Cikini,Order tidak lengkap,Item kurang,Checker
+CMP-0374,2025-04-17 16:31:00,2025-04-17 16:40:00,2025-04-17 17:24:00,SOLVED,Forgiven,Social Media,Dari Pada,Platform,Bintaro,Packaging issue,Kemasan bocor,AM
+CMP-0375,2025-02-25 19:01:00,2025-02-25 19:03:00,2025-02-25 19:41:00,SOLVED,Replacement sent,App,Bude Sari,Phone,Pamulang,Packaging issue,Kemasan bocor,AM
+CMP-0376,2025-05-07 14:48:00,2025-05-07 15:00:00,2025-05-07 15:08:00,SOLVED,Refund,Social Media,San Gyu,Take Away,Tebet,Porsi tidak sesuai,Ukuran tidak sesuai,Admin
+CMP-0377,2025-06-06 12:28:00,2025-06-06 12:31:00,,HANDLING,In progress,Whatsapp,Dari Pada,Platform,Pluit,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0378,2025-06-16 10:38:00,2025-06-16 10:58:00,2025-06-16 11:39:00,SOLVED,Misunderstanding clarified,Feedback,Moon Chicken,Phone,Pluit,Packaging issue,Kemasan rusak,AM
+CMP-0379,2025-04-13 17:47:00,2025-04-13 18:11:00,2025-04-13 20:13:00,EXPIRED,No response,App,Ayam Koplo,Take Away,BSD,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0380,2025-04-28 17:06:00,2025-04-28 17:11:00,2025-04-28 18:30:00,SOLVED,Replacement sent,App,San Gyu,App,Cikini,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0381,2025-05-22 12:49:00,2025-05-22 13:05:00,2025-05-22 13:56:00,SOLVED,Replacement sent,Whatsapp,San Gyu,Take Away,Pamulang,Produk tidak sesuai dengan order,Menu tertukar,QC
+CMP-0382,2025-04-14 13:19:00,2025-04-14 13:28:00,,VALIDATING,Missing proof,Feedback,Moon Chicken,Phone,Tebet,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0383,2025-01-09 11:07:00,2025-01-09 11:10:00,2025-01-09 11:47:00,SOLVED,Misunderstanding clarified,App,Dari Pada,Phone,Cibubur,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0384,2025-02-19 13:56:00,2025-02-19 14:00:00,2025-02-19 16:35:00,SOLVED,Misunderstanding clarified,Whatsapp,Moon Chicken,Platform,Cikini,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0385,2025-02-14 10:56:00,2025-02-14 11:04:00,2025-02-14 11:45:00,SOLVED,Refund,App,Ayam Koplo,App,Bintaro,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0386,2025-01-20 10:08:00,2025-01-20 10:16:00,2025-01-20 10:53:00,SOLVED,Forgiven,Feedback,Moon Chicken,Phone,Kemang,Tech issue,App error,Tech Team
+CMP-0387,2025-06-11 17:23:00,2025-06-11 17:30:00,2025-06-11 21:01:00,SOLVED,Misunderstanding clarified,Whatsapp,Bude Sari,Take Away,Kemang,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0388,2025-05-29 14:23:00,2025-05-29 14:31:00,2025-05-29 16:23:00,SOLVED,Replacement sent,Feedback,Bude Sari,Platform,Pamulang,Order tidak lengkap,Item kurang,Checker
+CMP-0389,2025-05-01 21:56:00,2025-05-01 21:59:00,2025-05-01 22:52:00,EXPIRED,No response,Social Media,Moon Chicken,Platform,BSD,Packaging issue,Label tidak sesuai,AM
+CMP-0390,2025-03-20 18:16:00,2025-03-20 18:23:00,2025-03-20 20:02:00,SOLVED,Replacement sent,Whatsapp,Dari Pada,Phone,BSD,Porsi tidak sesuai,Ukuran tidak sesuai,Kitchen
+CMP-0391,2025-02-07 14:28:00,2025-02-07 14:32:00,2025-02-07 18:22:00,SOLVED,Misunderstanding clarified,App,Ayam Koplo,Take Away,Kemang,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0392,2025-01-26 13:13:00,2025-01-26 13:25:00,,HANDLING,In progress,Social Media,Dari Pada,App,BSD,Tech issue,App error,Tech Team
+CMP-0393,2025-05-07 09:53:00,2025-05-07 09:59:00,2025-05-07 09:59:00,SOLVED,Replacement sent,Feedback,Ayam Koplo,Platform,Kemang,Rasa tidak sesuai,Keasinan,AM
+CMP-0394,2025-05-10 21:48:00,2025-05-10 22:01:00,2025-05-10 23:56:00,EXPIRED,No response,App,Bude Sari,App,Tebet,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0395,2025-03-25 11:12:00,2025-03-25 11:17:00,2025-03-25 12:31:00,EXPIRED,No response,App,San Gyu,Phone,BSD,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0396,2025-06-28 09:20:00,2025-06-28 09:23:00,2025-06-28 12:46:00,SOLVED,Replacement sent,Whatsapp,Ayam Koplo,Take Away,Pamulang,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0397,2025-02-16 11:45:00,2025-02-16 11:49:00,2025-02-16 20:48:00,SOLVED,Forgiven,Whatsapp,Moon Chicken,Phone,Kemang,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0398,2025-03-29 12:25:00,2025-03-29 12:34:00,2025-03-29 12:53:00,SOLVED,Misunderstanding clarified,Social Media,Dari Pada,Phone,BSD,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0399,2025-02-24 16:27:00,2025-02-24 16:31:00,2025-02-24 16:48:00,SOLVED,Forgiven,App,Bude Sari,Phone,Pamulang,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0400,2025-03-01 17:34:00,2025-03-01 17:41:00,2025-03-01 18:33:00,SOLVED,Replacement sent,App,Dari Pada,Platform,BSD,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0401,2025-03-20 16:00:00,2025-03-20 16:01:00,2025-03-20 19:27:00,SOLVED,Refund,Feedback,San Gyu,Phone,Cikini,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0402,2025-04-16 21:06:00,2025-04-16 21:13:00,2025-04-17 00:18:00,SOLVED,Refund,Social Media,San Gyu,App,Cibubur,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0403,2025-04-17 15:20:00,2025-04-17 15:25:00,2025-04-17 17:31:00,SOLVED,Refund,Feedback,Bude Sari,Platform,Cikini,Tech issue,Voucher error,Tech Team
+CMP-0404,2025-05-19 16:16:00,2025-05-19 16:24:00,2025-05-19 20:56:00,SOLVED,Misunderstanding clarified,Social Media,San Gyu,Phone,BSD,Produk tidak sesuai dengan order,Menu tertukar,QC
+CMP-0405,2025-05-08 14:05:00,2025-05-08 14:16:00,2025-05-08 14:49:00,SOLVED,Misunderstanding clarified,Whatsapp,Dari Pada,Platform,BSD,Tech issue,Pembayaran gagal,Tech Team
+CMP-0406,2025-05-22 14:32:00,2025-05-22 14:40:00,2025-05-22 17:47:00,SOLVED,Forgiven,Whatsapp,Ayam Koplo,Platform,Tebet,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0407,2025-04-30 12:05:00,2025-04-30 12:16:00,2025-04-30 12:50:00,SOLVED,Refund,App,Bude Sari,Phone,Cikini,Tekstur tidak sesuai,Keras,Kitchen
+CMP-0408,2025-04-09 12:56:00,2025-04-09 13:23:00,2025-04-09 13:45:00,SOLVED,Misunderstanding clarified,Feedback,Moon Chicken,Phone,Kemang,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0409,2025-03-31 18:34:00,2025-03-31 18:42:00,2025-03-31 20:49:00,SOLVED,Refund,Feedback,Dari Pada,Platform,Cikini,Tech issue,Pembayaran gagal,AM
+CMP-0410,2025-02-25 14:34:00,2025-02-25 14:44:00,2025-02-25 18:12:00,SOLVED,Forgiven,Social Media,Moon Chicken,App,Pamulang,Tech issue,Voucher error,Tech Team
+CMP-0411,2025-02-20 14:18:00,2025-02-20 14:22:00,2025-02-20 15:43:00,EXPIRED,No response,Whatsapp,San Gyu,Take Away,Kemang,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0412,2025-05-31 11:31:00,2025-05-31 11:42:00,,VALIDATING,Missing proof,Feedback,San Gyu,Take Away,Pamulang,Rasa tidak sesuai,Keasinan,QC
+CMP-0413,2025-02-28 14:28:00,2025-02-28 14:45:00,,VALIDATING,Missing proof,Social Media,Bude Sari,Platform,Pamulang,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0414,2025-01-30 19:53:00,2025-01-30 19:57:00,2025-01-30 20:58:00,SOLVED,Replacement sent,App,San Gyu,Phone,Tebet,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0415,2025-06-09 13:28:00,2025-06-09 13:33:00,2025-06-09 15:16:00,SOLVED,Refund,Social Media,Bude Sari,App,Cibubur,Tekstur tidak sesuai,Keras,Kitchen
+CMP-0416,2025-05-15 13:03:00,2025-05-15 13:09:00,2025-05-15 14:45:00,SOLVED,Forgiven,Social Media,Dari Pada,Phone,Cibubur,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0417,2025-03-29 09:42:00,2025-03-29 09:45:00,2025-03-29 09:56:00,EXPIRED,No response,Whatsapp,San Gyu,Phone,Cikini,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0418,2025-05-30 14:42:00,2025-05-30 14:43:00,2025-05-30 14:59:00,SOLVED,Refund,Social Media,Moon Chicken,Phone,Cibubur,Tech issue,Voucher error,Tech Team
+CMP-0419,2025-01-31 20:45:00,2025-01-31 20:57:00,2025-01-31 22:44:00,EXPIRED,No response,Social Media,Ayam Koplo,App,Tebet,Tech issue,App error,Tech Team
+CMP-0420,2025-06-10 15:33:00,2025-06-10 15:38:00,2025-06-10 16:09:00,SOLVED,Refund,Social Media,Bude Sari,Take Away,Pamulang,Tech issue,Voucher error,Checker
+CMP-0421,2025-05-16 21:01:00,2025-05-16 21:07:00,2025-05-17 02:40:00,SOLVED,Misunderstanding clarified,Whatsapp,Dari Pada,Phone,Pluit,Order tidak lengkap,Item kurang,Checker
+CMP-0422,2025-04-29 12:32:00,2025-04-29 12:35:00,,VALIDATING,Missing proof,Whatsapp,Ayam Koplo,Take Away,Pluit,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0423,2025-05-30 21:29:00,2025-05-30 21:32:00,2025-05-31 00:49:00,SOLVED,Replacement sent,Feedback,Bude Sari,Phone,Pluit,Order tidak lengkap,Item kurang,Checker
+CMP-0424,2025-06-15 15:12:00,2025-06-15 15:15:00,2025-06-15 16:05:00,SOLVED,Replacement sent,App,Dari Pada,App,Pluit,Rasa tidak sesuai,Keasinan,AM
+CMP-0425,2025-06-18 20:54:00,2025-06-18 21:03:00,2025-06-18 22:56:00,SOLVED,Refund,App,Bude Sari,App,Pamulang,Porsi tidak sesuai,Ukuran tidak sesuai,Checker
+CMP-0426,2025-02-23 16:31:00,2025-02-23 16:43:00,2025-02-23 17:41:00,SOLVED,Refund,App,Moon Chicken,Platform,Cikini,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0427,2025-04-18 10:08:00,2025-04-18 10:15:00,2025-04-18 11:02:00,SOLVED,Misunderstanding clarified,Feedback,Ayam Koplo,App,Cikini,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0428,2025-01-04 11:34:00,2025-01-04 11:49:00,2025-01-04 13:32:00,EXPIRED,No response,Social Media,San Gyu,Platform,Cibubur,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0429,2025-01-30 12:59:00,2025-01-30 13:06:00,2025-01-30 15:16:00,SOLVED,Refund,Social Media,San Gyu,Phone,Tebet,Tekstur tidak sesuai,Keras,Kitchen
+CMP-0430,2025-01-03 16:11:00,2025-01-03 16:16:00,2025-01-03 16:56:00,EXPIRED,No response,App,Ayam Koplo,Phone,Tebet,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0431,2025-05-13 14:38:00,2025-05-13 14:44:00,2025-05-13 16:19:00,SOLVED,Replacement sent,Whatsapp,San Gyu,Take Away,Kemang,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0432,2025-02-13 14:13:00,2025-02-13 14:19:00,2025-02-13 14:38:00,SOLVED,Refund,Social Media,Dari Pada,Take Away,Pamulang,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0433,2025-02-24 21:22:00,2025-02-24 21:26:00,,HANDLING,In progress,Social Media,Ayam Koplo,Phone,BSD,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0434,2025-04-08 13:38:00,2025-04-08 13:40:00,2025-04-08 14:02:00,EXPIRED,No response,Feedback,Ayam Koplo,App,Cikini,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0435,2025-03-08 10:33:00,2025-03-08 10:49:00,2025-03-08 12:12:00,SOLVED,Replacement sent,Feedback,Moon Chicken,Take Away,Pamulang,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0436,2025-05-16 10:20:00,2025-05-16 10:25:00,2025-05-16 12:46:00,EXPIRED,No response,Feedback,Ayam Koplo,Take Away,Bintaro,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0437,2025-02-20 19:19:00,2025-02-20 19:20:00,2025-02-20 19:45:00,SOLVED,Forgiven,Social Media,San Gyu,Platform,Pamulang,Produk tidak sesuai dengan order,Varian salah,QC
+CMP-0438,2025-06-10 11:48:00,2025-06-10 11:52:00,2025-06-10 12:55:00,EXPIRED,No response,App,Ayam Koplo,Platform,Tebet,Packaging issue,Label tidak sesuai,AM
+CMP-0439,2025-01-11 15:21:00,2025-01-11 15:35:00,2025-01-11 15:53:00,EXPIRED,No response,App,Moon Chicken,Platform,Cikini,Rasa tidak sesuai,Keasinan,QC
+CMP-0440,2025-02-10 15:58:00,2025-02-10 16:02:00,2025-02-10 17:00:00,SOLVED,Misunderstanding clarified,Social Media,Dari Pada,App,Pamulang,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0441,2025-01-23 18:01:00,2025-01-23 18:11:00,2025-01-23 18:34:00,EXPIRED,No response,Whatsapp,Dari Pada,Platform,Cibubur,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0442,2025-01-26 12:04:00,2025-01-26 12:16:00,2025-01-26 12:34:00,SOLVED,Forgiven,Whatsapp,San Gyu,App,Cikini,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0443,2025-01-12 14:47:00,2025-01-12 14:51:00,2025-01-12 15:12:00,EXPIRED,No response,Social Media,San Gyu,Platform,Tebet,Packaging issue,Label tidak sesuai,AM
+CMP-0444,2025-04-26 13:40:00,2025-04-26 13:51:00,2025-04-26 14:58:00,SOLVED,Refund,Whatsapp,Moon Chicken,App,Pamulang,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0445,2025-06-27 09:01:00,2025-06-27 09:03:00,2025-06-27 11:26:00,SOLVED,Forgiven,Whatsapp,Moon Chicken,App,Bintaro,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0446,2025-02-02 20:41:00,2025-02-02 20:50:00,2025-02-02 23:31:00,SOLVED,Replacement sent,Whatsapp,Ayam Koplo,Phone,Cikini,Tech issue,Voucher error,Tech Team
+CMP-0447,2025-02-01 17:00:00,2025-02-01 17:04:00,2025-02-01 21:00:00,SOLVED,Misunderstanding clarified,Social Media,Moon Chicken,App,BSD,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0448,2025-02-25 16:21:00,2025-02-25 16:36:00,2025-02-25 18:02:00,SOLVED,Refund,Social Media,Bude Sari,App,Tebet,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0449,2025-04-13 13:40:00,2025-04-13 13:45:00,2025-04-13 16:49:00,SOLVED,Refund,Feedback,Moon Chicken,Take Away,Kemang,Packaging issue,Kemasan rusak,AM
+CMP-0450,2025-03-15 15:50:00,2025-03-15 16:01:00,2025-03-15 16:28:00,SOLVED,Replacement sent,Social Media,Moon Chicken,App,Cibubur,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0451,2025-04-01 14:57:00,2025-04-01 15:13:00,,VALIDATING,Missing proof,Social Media,Dari Pada,Take Away,Tebet,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0452,2025-03-22 12:45:00,2025-03-22 13:06:00,2025-03-22 15:52:00,SOLVED,Misunderstanding clarified,App,Moon Chicken,Phone,Cikini,Rasa tidak sesuai,Keasinan,QC
+CMP-0453,2025-04-08 18:49:00,2025-04-08 19:05:00,2025-04-08 19:34:00,SOLVED,Forgiven,Feedback,Moon Chicken,Platform,Cikini,Packaging issue,Kemasan bocor,AM
+CMP-0454,2025-03-28 10:13:00,2025-03-28 10:44:00,2025-03-28 13:28:00,SOLVED,Refund,App,San Gyu,Platform,Tebet,Packaging issue,Label tidak sesuai,AM
+CMP-0455,2025-03-12 17:50:00,2025-03-12 18:01:00,2025-03-12 20:29:00,SOLVED,Misunderstanding clarified,Feedback,Bude Sari,App,Pamulang,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0456,2025-06-24 10:34:00,2025-06-24 10:40:00,2025-06-24 11:19:00,SOLVED,Forgiven,Feedback,Ayam Koplo,App,Pamulang,Tekstur tidak sesuai,Dingin/tidak fresh,QC
+CMP-0457,2025-01-28 12:55:00,2025-01-28 13:02:00,2025-01-28 13:47:00,SOLVED,Replacement sent,Whatsapp,Moon Chicken,Take Away,Cibubur,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0458,2025-05-07 10:47:00,2025-05-07 11:01:00,2025-05-07 11:55:00,SOLVED,Forgiven,App,Ayam Koplo,Platform,Cikini,Rasa tidak sesuai,Basi,QC
+CMP-0459,2025-04-29 13:54:00,2025-04-29 13:57:00,2025-04-29 15:54:00,SOLVED,Forgiven,Social Media,Dari Pada,Take Away,Pluit,Rasa tidak sesuai,Basi,QC
+CMP-0460,2025-06-16 11:26:00,2025-06-16 11:29:00,2025-06-16 12:33:00,SOLVED,Forgiven,Social Media,Ayam Koplo,Platform,Cikini,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0461,2025-05-15 19:47:00,2025-05-15 20:06:00,2025-05-15 21:37:00,SOLVED,Replacement sent,Feedback,Ayam Koplo,Take Away,Cikini,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0462,2025-01-10 20:22:00,2025-01-10 20:34:00,2025-01-10 22:29:00,SOLVED,Replacement sent,Whatsapp,Moon Chicken,Phone,Tebet,Packaging issue,Kemasan bocor,AM
+CMP-0463,2025-03-22 18:44:00,2025-03-22 18:50:00,2025-03-22 19:03:00,SOLVED,Forgiven,Whatsapp,Dari Pada,Take Away,Cibubur,Packaging issue,Kemasan bocor,AM
+CMP-0464,2025-01-31 13:35:00,2025-01-31 13:48:00,2025-01-31 17:58:00,EXPIRED,No response,App,Bude Sari,Phone,Tebet,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0465,2025-05-16 19:49:00,2025-05-16 19:52:00,2025-05-16 22:15:00,SOLVED,Forgiven,App,Moon Chicken,App,Pluit,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0466,2025-01-02 12:27:00,2025-01-02 12:28:00,2025-01-02 15:20:00,SOLVED,Forgiven,Feedback,Bude Sari,App,Bintaro,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0467,2025-01-28 14:18:00,2025-01-28 14:20:00,2025-01-28 18:54:00,SOLVED,Forgiven,Whatsapp,Bude Sari,Platform,Kemang,Rasa tidak sesuai,Basi,QC
+CMP-0468,2025-03-30 11:32:00,2025-03-30 11:55:00,2025-03-30 14:00:00,SOLVED,Misunderstanding clarified,Feedback,Bude Sari,Take Away,Pluit,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0469,2025-05-19 21:27:00,2025-05-19 21:40:00,2025-05-19 21:50:00,SOLVED,Refund,App,Moon Chicken,App,Tebet,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0470,2025-03-08 20:42:00,2025-03-08 20:48:00,2025-03-08 23:14:00,SOLVED,Refund,Feedback,San Gyu,Take Away,Pluit,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0471,2025-06-18 12:30:00,2025-06-18 12:38:00,2025-06-18 15:18:00,SOLVED,Replacement sent,Feedback,Ayam Koplo,Platform,Tebet,Tech issue,App error,Admin
+CMP-0472,2025-01-20 10:58:00,2025-01-20 12:37:00,2025-01-20 12:37:00,SOLVED,Replacement sent,Whatsapp,Bude Sari,App,Cikini,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0473,2025-04-08 16:00:00,2025-04-08 16:13:00,2025-04-08 17:38:00,EXPIRED,No response,App,Bude Sari,App,Pluit,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0474,2025-02-13 12:31:00,2025-02-13 12:38:00,,VALIDATING,Missing proof,Feedback,Ayam Koplo,Platform,Pluit,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0475,2025-05-16 09:18:00,2025-05-16 09:21:00,,HANDLING,In progress,Whatsapp,Moon Chicken,Take Away,Tebet,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0476,2025-05-24 18:13:00,2025-05-24 18:16:00,2025-05-24 21:14:00,EXPIRED,No response,Social Media,Dari Pada,App,Kemang,Tekstur tidak sesuai,Keras,Kitchen
+CMP-0477,2025-04-20 16:02:00,2025-04-20 16:12:00,2025-04-20 17:15:00,SOLVED,Refund,Social Media,San Gyu,Phone,BSD,Packaging issue,Label tidak sesuai,Admin
+CMP-0478,2025-01-27 17:21:00,2025-01-27 17:28:00,2025-01-27 18:34:00,SOLVED,Refund,App,Moon Chicken,Phone,Tebet,Tech issue,Pembayaran gagal,Tech Team
+CMP-0479,2025-05-24 10:28:00,2025-05-24 10:33:00,2025-05-24 13:29:00,SOLVED,Refund,Social Media,San Gyu,Take Away,Pluit,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0480,2025-03-26 15:34:00,2025-03-26 15:40:00,2025-03-26 21:10:00,SOLVED,Replacement sent,Whatsapp,Dari Pada,App,Cibubur,Tekstur tidak sesuai,Kurang crispy,Kitchen
+CMP-0481,2025-06-14 17:21:00,2025-06-14 17:29:00,2025-06-14 18:32:00,EXPIRED,No response,App,Bude Sari,Take Away,Cikini,Packaging issue,Label tidak sesuai,AM
+CMP-0482,2025-02-23 17:00:00,2025-02-23 17:11:00,2025-02-23 18:12:00,SOLVED,Forgiven,Whatsapp,Bude Sari,Platform,Pamulang,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0483,2025-02-08 17:28:00,2025-02-08 17:41:00,2025-02-08 20:37:00,SOLVED,Misunderstanding clarified,App,Moon Chicken,Phone,Pluit,Tekstur tidak sesuai,Kurang crispy,Admin
+CMP-0484,2025-06-02 09:51:00,2025-06-02 09:52:00,,HANDLING,In progress,App,Ayam Koplo,Phone,Bintaro,Packaging issue,Kemasan bocor,AM
+CMP-0485,2025-01-18 12:55:00,2025-01-18 12:59:00,2025-01-18 15:21:00,SOLVED,Misunderstanding clarified,App,San Gyu,Take Away,Cibubur,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0486,2025-02-17 11:36:00,2025-02-17 11:47:00,2025-02-17 12:16:00,SOLVED,Forgiven,Feedback,Bude Sari,Platform,Kemang,Packaging issue,Label tidak sesuai,AM
+CMP-0487,2025-06-28 09:35:00,2025-06-28 09:41:00,2025-06-28 10:33:00,SOLVED,Replacement sent,Feedback,Dari Pada,Phone,Tebet,Tekstur tidak sesuai,Kurang crispy,Checker
+CMP-0488,2025-06-10 22:00:00,2025-06-10 22:05:00,2025-06-10 23:56:00,EXPIRED,No response,Whatsapp,Ayam Koplo,App,Cibubur,Tech issue,App error,Checker
+CMP-0489,2025-02-14 13:28:00,2025-02-14 13:52:00,2025-02-14 15:20:00,EXPIRED,No response,Whatsapp,Ayam Koplo,Take Away,Tebet,Packaging issue,Label tidak sesuai,AM
+CMP-0490,2025-01-26 12:47:00,2025-01-26 12:48:00,,VALIDATING,Missing proof,Whatsapp,Moon Chicken,Take Away,Tebet,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0491,2025-04-26 09:59:00,2025-04-26 10:02:00,2025-04-26 10:42:00,SOLVED,Replacement sent,Feedback,Bude Sari,Phone,Cibubur,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0492,2025-06-03 17:30:00,2025-06-03 17:46:00,2025-06-03 19:49:00,SOLVED,Refund,Whatsapp,Moon Chicken,Take Away,Pamulang,Tech issue,Pembayaran gagal,Driver
+CMP-0493,2025-03-05 14:16:00,2025-03-05 14:21:00,2025-03-05 15:59:00,SOLVED,Replacement sent,Whatsapp,Dari Pada,Take Away,Kemang,Rasa tidak sesuai,Basi,QC
+CMP-0494,2025-01-27 10:59:00,2025-01-27 11:11:00,,HANDLING,In progress,Whatsapp,Dari Pada,Take Away,Pamulang,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0495,2025-04-01 13:48:00,2025-04-01 13:51:00,,HANDLING,In progress,Feedback,Bude Sari,Phone,Kemang,Order tidak lengkap,Item kurang,Checker
+CMP-0496,2025-01-08 15:22:00,2025-01-08 15:28:00,2025-01-08 15:56:00,SOLVED,Refund,Whatsapp,Dari Pada,Platform,Tebet,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0497,2025-06-15 10:29:00,2025-06-15 10:32:00,,HANDLING,In progress,Social Media,Bude Sari,App,BSD,Packaging issue,Label tidak sesuai,AM
+CMP-0498,2025-01-27 19:22:00,2025-01-27 19:35:00,2025-01-27 22:53:00,SOLVED,Misunderstanding clarified,App,Ayam Koplo,Phone,Cikini,Produk tidak sesuai dengan order,Varian salah,Driver
+CMP-0499,2025-02-14 18:12:00,2025-02-14 18:25:00,2025-02-14 18:52:00,SOLVED,Refund,Social Media,Bude Sari,Take Away,Cikini,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0500,2025-05-04 15:12:00,2025-05-04 15:14:00,2025-05-04 16:05:00,SOLVED,Misunderstanding clarified,Feedback,Moon Chicken,Platform,Pamulang,Waktu pengiriman terlalu lama,Driver delay,Tech Team
+CMP-0501,2025-05-04 20:20:00,2025-05-04 20:24:00,2025-05-05 00:39:00,SOLVED,Forgiven,Whatsapp,Dari Pada,Phone,Pluit,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0502,2025-05-22 20:11:00,2025-05-22 20:21:00,2025-05-22 22:49:00,EXPIRED,No response,Whatsapp,San Gyu,Take Away,BSD,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0503,2025-06-17 13:33:00,2025-06-17 13:39:00,2025-06-17 15:42:00,SOLVED,Forgiven,Social Media,Dari Pada,Platform,Bintaro,Packaging issue,Kemasan bocor,AM
+CMP-0504,2025-01-19 20:42:00,2025-01-19 20:55:00,2025-01-19 23:52:00,SOLVED,Replacement sent,Feedback,Dari Pada,Take Away,Kemang,Tekstur tidak sesuai,Kurang crispy,Kitchen
+CMP-0505,2025-05-09 11:05:00,2025-05-09 11:20:00,2025-05-09 11:26:00,SOLVED,Refund,Social Media,Ayam Koplo,Platform,Cikini,Tech issue,Pembayaran gagal,Admin
+CMP-0506,2025-06-05 15:18:00,2025-06-05 15:35:00,2025-06-05 18:09:00,SOLVED,Refund,App,Dari Pada,Platform,Cikini,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0507,2025-01-04 12:19:00,2025-01-04 12:30:00,2025-01-04 16:42:00,SOLVED,Refund,App,Moon Chicken,App,Cikini,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0508,2025-05-04 21:40:00,2025-05-04 21:43:00,2025-05-04 22:31:00,EXPIRED,No response,Whatsapp,San Gyu,Platform,Cibubur,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0509,2025-04-23 18:20:00,2025-04-23 18:23:00,2025-04-23 18:45:00,SOLVED,Forgiven,Feedback,Dari Pada,App,Pamulang,Tech issue,App error,Kitchen
+CMP-0510,2025-06-16 18:23:00,2025-06-16 18:30:00,2025-06-16 19:16:00,SOLVED,Refund,Whatsapp,San Gyu,Phone,BSD,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0511,2025-03-31 12:18:00,2025-03-31 12:34:00,2025-03-31 13:21:00,SOLVED,Misunderstanding clarified,Social Media,Moon Chicken,App,Cikini,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0512,2025-03-26 13:58:00,2025-03-26 14:02:00,2025-03-26 14:15:00,SOLVED,Refund,Feedback,Bude Sari,Phone,Cikini,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0513,2025-02-06 20:57:00,2025-02-06 21:07:00,,HANDLING,In progress,Feedback,Moon Chicken,Phone,Tebet,Packaging issue,Kemasan bocor,AM
+CMP-0514,2025-01-23 15:49:00,2025-01-23 15:53:00,2025-01-23 20:26:00,SOLVED,Forgiven,Social Media,San Gyu,Take Away,Pamulang,Rasa tidak sesuai,Keasinan,QC
+CMP-0515,2025-04-06 13:53:00,2025-04-06 14:00:00,2025-04-06 15:14:00,SOLVED,Forgiven,Feedback,Dari Pada,App,Cikini,Packaging issue,Label tidak sesuai,AM
+CMP-0516,2025-03-17 18:50:00,2025-03-17 18:59:00,2025-03-17 19:10:00,SOLVED,Refund,App,Moon Chicken,App,Tebet,Packaging issue,Kemasan rusak,AM
+CMP-0517,2025-03-20 12:18:00,2025-03-20 12:34:00,2025-03-20 13:39:00,SOLVED,Misunderstanding clarified,App,Ayam Koplo,Platform,Bintaro,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0518,2025-01-10 16:10:00,2025-01-10 16:28:00,2025-01-10 18:19:00,SOLVED,Refund,Whatsapp,Bude Sari,Take Away,Cikini,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0519,2025-04-10 09:22:00,2025-04-10 09:29:00,2025-04-10 10:32:00,SOLVED,Replacement sent,Feedback,Ayam Koplo,App,Tebet,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0520,2025-06-29 16:46:00,2025-06-29 17:03:00,,HANDLING,In progress,Whatsapp,Bude Sari,Phone,Cibubur,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0521,2025-01-16 11:00:00,2025-01-16 11:16:00,2025-01-16 12:46:00,SOLVED,Refund,Feedback,San Gyu,Phone,Kemang,Tekstur tidak sesuai,Keras,Kitchen
+CMP-0522,2025-06-04 10:39:00,2025-06-04 10:50:00,,HANDLING,In progress,App,Moon Chicken,Platform,Kemang,Tekstur tidak sesuai,Keras,Kitchen
+CMP-0523,2025-04-29 12:11:00,2025-04-29 12:19:00,2025-04-29 14:13:00,EXPIRED,No response,Feedback,Ayam Koplo,Platform,Tebet,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0524,2025-04-30 12:26:00,2025-04-30 12:31:00,2025-04-30 14:45:00,SOLVED,Forgiven,App,Ayam Koplo,App,Cibubur,Tech issue,Pembayaran gagal,Tech Team
+CMP-0525,2025-04-13 12:48:00,2025-04-13 13:00:00,2025-04-13 13:12:00,SOLVED,Refund,Social Media,Bude Sari,Phone,Cibubur,Tech issue,App error,Checker
+CMP-0526,2025-02-22 15:04:00,2025-02-22 15:21:00,,VALIDATING,Missing proof,Whatsapp,Moon Chicken,Take Away,Pluit,Tekstur tidak sesuai,Dingin/tidak fresh,Checker
+CMP-0527,2025-01-29 20:16:00,2025-01-29 20:30:00,2025-01-29 21:35:00,SOLVED,Refund,Feedback,Dari Pada,Take Away,Tebet,Order tidak lengkap,Item kurang,Checker
+CMP-0528,2025-01-10 13:49:00,2025-01-10 13:59:00,2025-01-10 14:56:00,SOLVED,Refund,Social Media,Dari Pada,Platform,Kemang,Tech issue,Pembayaran gagal,Cashier
+CMP-0529,2025-01-03 14:20:00,2025-01-03 14:23:00,2025-01-03 14:58:00,SOLVED,Refund,App,Dari Pada,App,Kemang,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0530,2025-01-29 17:24:00,2025-01-29 17:33:00,2025-01-29 17:58:00,SOLVED,Refund,Whatsapp,Ayam Koplo,App,Cibubur,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0531,2025-03-25 10:09:00,2025-03-25 10:28:00,2025-03-25 11:45:00,SOLVED,Forgiven,Whatsapp,Dari Pada,Take Away,Cikini,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0532,2025-03-18 21:50:00,2025-03-18 22:01:00,2025-03-18 23:02:00,SOLVED,Misunderstanding clarified,Whatsapp,Ayam Koplo,Take Away,Pamulang,Order tidak lengkap,Minuman tidak ada,Admin
+CMP-0533,2025-03-10 18:27:00,2025-03-10 18:35:00,2025-03-10 19:33:00,SOLVED,Refund,Feedback,Moon Chicken,Take Away,Cibubur,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0534,2025-01-29 15:48:00,2025-01-29 16:13:00,2025-01-29 16:30:00,EXPIRED,No response,App,Moon Chicken,Platform,Pamulang,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0535,2025-05-15 20:26:00,2025-05-15 20:34:00,2025-05-15 21:18:00,SOLVED,Refund,App,Dari Pada,Take Away,Cibubur,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0536,2025-04-22 12:30:00,2025-04-22 12:31:00,,VALIDATING,Missing proof,Whatsapp,Bude Sari,Take Away,Kemang,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0537,2025-01-29 10:29:00,2025-01-29 10:42:00,2025-01-29 10:43:00,SOLVED,Replacement sent,Whatsapp,San Gyu,Platform,BSD,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0538,2025-05-29 13:10:00,2025-05-29 13:18:00,2025-05-29 13:44:00,SOLVED,Replacement sent,Social Media,Ayam Koplo,Phone,Pluit,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0539,2025-02-04 13:32:00,2025-02-04 13:40:00,,VALIDATING,Missing proof,Whatsapp,San Gyu,Phone,Cikini,Tekstur tidak sesuai,Keras,Kitchen
+CMP-0540,2025-05-31 17:38:00,2025-05-31 18:41:00,2025-05-31 18:41:00,EXPIRED,No response,Social Media,San Gyu,Platform,Cikini,Rasa tidak sesuai,Basi,QC
+CMP-0541,2025-03-12 12:08:00,2025-03-12 12:28:00,2025-03-12 12:57:00,SOLVED,Refund,App,Dari Pada,App,Kemang,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0542,2025-01-04 19:15:00,2025-01-04 20:07:00,2025-01-05 00:41:00,SOLVED,Forgiven,Whatsapp,Bude Sari,Take Away,Pluit,Packaging issue,Kemasan bocor,AM
+CMP-0543,2025-03-18 10:52:00,2025-03-18 11:02:00,2025-03-18 13:33:00,SOLVED,Forgiven,Whatsapp,Moon Chicken,Platform,Cibubur,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0544,2025-06-11 20:08:00,2025-06-11 20:23:00,2025-06-11 20:54:00,EXPIRED,No response,App,Moon Chicken,Phone,Cikini,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0545,2025-05-14 20:19:00,2025-05-14 20:40:00,2025-05-15 03:54:00,SOLVED,Misunderstanding clarified,Feedback,Ayam Koplo,Phone,Kemang,Tekstur tidak sesuai,Kurang crispy,Kitchen
+CMP-0546,2025-02-25 17:22:00,2025-02-25 17:30:00,2025-02-25 17:43:00,SOLVED,Forgiven,Social Media,Bude Sari,Take Away,Bintaro,Packaging issue,Label tidak sesuai,Driver
+CMP-0547,2025-06-27 11:27:00,2025-06-27 11:31:00,2025-06-27 12:26:00,SOLVED,Misunderstanding clarified,Feedback,Dari Pada,Take Away,BSD,Tech issue,App error,Cashier
+CMP-0548,2025-01-02 09:57:00,2025-01-02 10:04:00,2025-01-02 11:37:00,SOLVED,Replacement sent,App,San Gyu,Phone,Cikini,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0549,2025-02-23 21:52:00,2025-02-23 22:06:00,2025-02-23 23:55:00,EXPIRED,No response,Feedback,San Gyu,App,Bintaro,Packaging issue,Kemasan bocor,AM
+CMP-0550,2025-02-10 12:04:00,2025-02-10 12:06:00,2025-02-10 12:14:00,SOLVED,Misunderstanding clarified,Whatsapp,Ayam Koplo,Platform,Tebet,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0551,2025-01-10 10:41:00,2025-01-10 11:06:00,2025-01-10 12:25:00,SOLVED,Replacement sent,Feedback,Dari Pada,Take Away,Bintaro,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0552,2025-02-10 18:11:00,2025-02-10 18:25:00,2025-02-10 21:23:00,SOLVED,Forgiven,Whatsapp,Ayam Koplo,Phone,Pamulang,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0553,2025-04-28 17:21:00,2025-04-28 17:26:00,2025-04-28 18:00:00,EXPIRED,No response,Feedback,Ayam Koplo,App,Cibubur,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0554,2025-05-12 11:08:00,2025-05-12 11:12:00,2025-05-12 13:26:00,SOLVED,Replacement sent,Whatsapp,Dari Pada,Phone,Bintaro,Rasa tidak sesuai,Keasinan,QC
+CMP-0555,2025-04-14 14:11:00,2025-04-14 14:16:00,2025-04-14 21:09:00,SOLVED,Misunderstanding clarified,App,Dari Pada,App,Pluit,Tekstur tidak sesuai,Kurang crispy,Kitchen
+CMP-0556,2025-01-23 14:05:00,2025-01-23 14:11:00,2025-01-23 15:24:00,SOLVED,Misunderstanding clarified,Whatsapp,Moon Chicken,Take Away,Cikini,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0557,2025-02-07 12:01:00,2025-02-07 12:22:00,2025-02-07 13:05:00,SOLVED,Refund,Social Media,Bude Sari,App,Pluit,Porsi tidak sesuai,Porsi terlalu sedikit,Driver
+CMP-0558,2025-05-15 13:05:00,2025-05-15 13:12:00,,VALIDATING,Missing proof,App,Dari Pada,App,Tebet,Order tidak lengkap,Item kurang,Checker
+CMP-0559,2025-01-21 10:16:00,2025-01-21 10:32:00,2025-01-21 10:34:00,SOLVED,Misunderstanding clarified,App,Bude Sari,Take Away,Tebet,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0560,2025-01-15 18:37:00,2025-01-15 18:43:00,2025-01-16 04:30:00,EXPIRED,No response,App,Moon Chicken,Platform,BSD,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0561,2025-02-21 13:09:00,2025-02-21 13:13:00,2025-02-21 13:51:00,SOLVED,Misunderstanding clarified,App,Moon Chicken,Take Away,Bintaro,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0562,2025-01-22 09:12:00,2025-01-22 09:29:00,2025-01-22 11:10:00,SOLVED,Forgiven,App,Dari Pada,Take Away,BSD,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0563,2025-05-26 13:46:00,2025-05-26 13:54:00,2025-05-26 16:24:00,EXPIRED,No response,Feedback,Bude Sari,Phone,Cikini,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0564,2025-03-28 13:28:00,2025-03-28 13:36:00,2025-03-28 13:36:00,SOLVED,Forgiven,Social Media,Dari Pada,Phone,Pluit,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0565,2025-05-21 12:37:00,2025-05-21 12:43:00,2025-05-21 13:43:00,SOLVED,Refund,Whatsapp,Dari Pada,Platform,Cibubur,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0566,2025-03-25 09:13:00,2025-03-25 09:25:00,2025-03-25 10:25:00,EXPIRED,No response,Social Media,Bude Sari,Platform,BSD,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0567,2025-03-24 17:23:00,2025-03-24 17:50:00,2025-03-24 17:50:00,SOLVED,Forgiven,Feedback,Bude Sari,App,Tebet,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0568,2025-06-28 21:51:00,2025-06-28 21:55:00,2025-06-28 22:04:00,SOLVED,Misunderstanding clarified,Whatsapp,Dari Pada,Phone,Pluit,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0569,2025-03-21 20:35:00,2025-03-21 20:49:00,2025-03-21 21:05:00,SOLVED,Refund,App,Moon Chicken,Platform,Bintaro,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0570,2025-01-17 21:19:00,2025-01-17 21:24:00,2025-01-17 21:34:00,SOLVED,Replacement sent,Feedback,Moon Chicken,App,Pluit,Tech issue,App error,Tech Team
+CMP-0571,2025-02-19 18:53:00,2025-02-19 19:06:00,2025-02-19 20:22:00,SOLVED,Misunderstanding clarified,Whatsapp,San Gyu,Take Away,Cikini,Tech issue,Pembayaran gagal,Tech Team
+CMP-0572,2025-01-03 18:32:00,2025-01-03 18:58:00,2025-01-04 04:29:00,SOLVED,Forgiven,Social Media,San Gyu,Take Away,Cibubur,Rasa tidak sesuai,Basi,QC
+CMP-0573,2025-03-28 10:03:00,2025-03-28 10:07:00,2025-03-28 10:30:00,SOLVED,Misunderstanding clarified,App,San Gyu,Platform,Bintaro,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0574,2025-02-03 16:24:00,2025-02-03 16:43:00,2025-02-03 16:47:00,SOLVED,Refund,Social Media,Bude Sari,Platform,Pluit,Packaging issue,Kemasan bocor,AM
+CMP-0575,2025-03-11 17:55:00,2025-03-11 18:06:00,2025-03-11 19:41:00,SOLVED,Refund,Whatsapp,Ayam Koplo,Phone,Cibubur,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0576,2025-01-31 14:27:00,2025-01-31 14:36:00,2025-01-31 16:29:00,SOLVED,Misunderstanding clarified,Whatsapp,Bude Sari,App,BSD,Packaging issue,Kemasan rusak,AM
+CMP-0577,2025-06-26 09:15:00,2025-06-26 09:28:00,2025-06-26 10:58:00,SOLVED,Refund,Feedback,Ayam Koplo,Take Away,Cibubur,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0578,2025-04-16 09:27:00,2025-04-16 09:36:00,2025-04-16 10:02:00,SOLVED,Forgiven,Social Media,Bude Sari,App,Tebet,Packaging issue,Kemasan bocor,AM
+CMP-0579,2025-05-25 14:30:00,2025-05-25 14:35:00,2025-05-25 15:50:00,SOLVED,Replacement sent,Social Media,Dari Pada,Platform,Pluit,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0580,2025-06-07 09:05:00,2025-06-07 09:12:00,2025-06-07 09:55:00,SOLVED,Misunderstanding clarified,Feedback,Ayam Koplo,Phone,Cibubur,Tech issue,Pembayaran gagal,Tech Team
+CMP-0581,2025-05-28 09:46:00,2025-05-28 09:52:00,2025-05-28 11:01:00,SOLVED,Replacement sent,Feedback,Dari Pada,App,Pluit,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0582,2025-04-22 14:17:00,2025-04-22 14:21:00,2025-04-22 15:09:00,SOLVED,Refund,Feedback,Ayam Koplo,App,Pluit,Tech issue,App error,Cashier
+CMP-0583,2025-02-12 11:35:00,2025-02-12 12:07:00,2025-02-12 13:13:00,SOLVED,Forgiven,Whatsapp,Moon Chicken,Platform,Pamulang,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0584,2025-02-20 21:13:00,2025-02-20 21:25:00,2025-02-20 23:37:00,SOLVED,Misunderstanding clarified,Feedback,Dari Pada,Take Away,Cibubur,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0585,2025-04-03 21:53:00,2025-04-03 21:59:00,2025-04-03 23:55:00,SOLVED,Forgiven,App,Ayam Koplo,Platform,BSD,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0586,2025-04-03 09:08:00,2025-04-03 09:19:00,2025-04-03 10:10:00,SOLVED,Forgiven,App,Bude Sari,Phone,Tebet,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0587,2025-02-23 15:24:00,2025-02-23 15:35:00,,HANDLING,In progress,Feedback,Moon Chicken,Take Away,Tebet,Waktu pengiriman terlalu lama,Driver delay,Tech Team
+CMP-0588,2025-01-12 21:51:00,2025-01-12 22:02:00,2025-01-12 23:04:00,SOLVED,Forgiven,App,Bude Sari,App,Tebet,Tech issue,Pembayaran gagal,Tech Team
+CMP-0589,2025-05-05 19:41:00,2025-05-05 19:55:00,2025-05-05 21:24:00,SOLVED,Refund,Whatsapp,Ayam Koplo,Phone,Bintaro,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0590,2025-05-30 19:58:00,2025-05-30 20:20:00,,HANDLING,In progress,Whatsapp,San Gyu,Take Away,Bintaro,Rasa tidak sesuai,Basi,QC
+CMP-0591,2025-04-10 15:39:00,2025-04-10 15:45:00,2025-04-10 16:09:00,SOLVED,Replacement sent,Feedback,Ayam Koplo,Take Away,Cikini,Tech issue,Voucher error,Tech Team
+CMP-0592,2025-05-23 14:06:00,2025-05-23 14:09:00,2025-05-23 15:19:00,SOLVED,Replacement sent,App,Bude Sari,Take Away,Cibubur,Tekstur tidak sesuai,Kurang crispy,Kitchen
+CMP-0593,2025-03-13 12:09:00,2025-03-13 12:19:00,2025-03-13 17:29:00,SOLVED,Forgiven,Social Media,Dari Pada,Take Away,Kemang,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0594,2025-04-19 09:08:00,2025-04-19 09:34:00,2025-04-19 10:01:00,EXPIRED,No response,Social Media,Dari Pada,App,BSD,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0595,2025-02-24 14:18:00,2025-02-24 14:23:00,2025-02-24 21:46:00,SOLVED,Replacement sent,Whatsapp,San Gyu,Platform,Tebet,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0596,2025-03-23 15:02:00,2025-03-23 15:13:00,2025-03-23 18:08:00,SOLVED,Replacement sent,Feedback,San Gyu,Phone,Kemang,Tekstur tidak sesuai,Kurang crispy,Kitchen
+CMP-0597,2025-06-13 16:44:00,2025-06-13 17:07:00,2025-06-13 18:04:00,SOLVED,Forgiven,Feedback,Dari Pada,Take Away,Cibubur,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0598,2025-02-18 20:04:00,2025-02-18 20:07:00,2025-02-18 20:22:00,SOLVED,Refund,Whatsapp,Ayam Koplo,App,Pamulang,Tech issue,Pembayaran gagal,Tech Team
+CMP-0599,2025-03-19 14:36:00,2025-03-19 14:46:00,2025-03-19 17:40:00,EXPIRED,No response,App,Bude Sari,Phone,Cibubur,Packaging issue,Label tidak sesuai,AM
+CMP-0600,2025-05-05 18:53:00,2025-05-05 19:01:00,2025-05-05 21:59:00,EXPIRED,No response,Feedback,Ayam Koplo,Take Away,BSD,Order tidak lengkap,Item kurang,Checker
+CMP-0601,2025-01-31 19:10:00,2025-01-31 19:25:00,2025-01-31 20:34:00,SOLVED,Replacement sent,Feedback,Bude Sari,Platform,Cibubur,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0602,2025-01-14 18:16:00,2025-01-14 18:25:00,2025-01-14 18:31:00,SOLVED,Replacement sent,Feedback,Ayam Koplo,App,Bintaro,Order tidak lengkap,Side dish tidak ada,Tech Team
+CMP-0603,2025-02-26 21:54:00,2025-02-26 22:01:00,2025-02-27 01:24:00,SOLVED,Refund,App,Moon Chicken,Take Away,Pluit,Order tidak lengkap,Item kurang,Cashier
+CMP-0604,2025-01-30 21:32:00,2025-01-30 21:49:00,2025-01-30 22:29:00,SOLVED,Replacement sent,Whatsapp,Dari Pada,App,Tebet,Produk tidak sesuai dengan order,Varian salah,Tech Team
+CMP-0605,2025-01-09 17:44:00,2025-01-09 17:48:00,2025-01-09 19:28:00,SOLVED,Refund,Whatsapp,Ayam Koplo,Take Away,BSD,Tech issue,Pembayaran gagal,Tech Team
+CMP-0606,2025-02-28 20:47:00,2025-02-28 20:53:00,2025-03-01 00:28:00,SOLVED,Forgiven,Social Media,Bude Sari,Take Away,Tebet,Rasa tidak sesuai,Keasinan,Admin
+CMP-0607,2025-01-28 15:25:00,2025-01-28 15:30:00,2025-01-28 15:42:00,SOLVED,Forgiven,Feedback,Bude Sari,App,Kemang,Rasa tidak sesuai,Basi,QC
+CMP-0608,2025-04-20 09:21:00,2025-04-20 09:36:00,2025-04-20 12:59:00,SOLVED,Replacement sent,Social Media,Bude Sari,Platform,Cikini,Tekstur tidak sesuai,Kurang crispy,Kitchen
+CMP-0609,2025-06-14 10:33:00,2025-06-14 10:43:00,,HANDLING,In progress,Feedback,Dari Pada,Phone,Pamulang,Packaging issue,Kemasan rusak,Kitchen
+CMP-0610,2025-02-26 09:32:00,2025-02-26 09:35:00,2025-02-26 19:24:00,SOLVED,Replacement sent,Social Media,Moon Chicken,App,Pluit,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0611,2025-01-12 21:32:00,2025-01-12 21:38:00,2025-01-12 21:58:00,SOLVED,Misunderstanding clarified,Feedback,San Gyu,Platform,Bintaro,Rasa tidak sesuai,Keasinan,QC
+CMP-0612,2025-04-27 11:24:00,2025-04-27 11:26:00,2025-04-27 13:01:00,SOLVED,Forgiven,Social Media,Dari Pada,Platform,Tebet,Tech issue,Voucher error,Tech Team
+CMP-0613,2025-06-08 17:08:00,2025-06-08 17:15:00,2025-06-08 18:14:00,SOLVED,Replacement sent,Social Media,Dari Pada,Phone,Bintaro,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0614,2025-04-12 21:57:00,2025-04-12 22:02:00,2025-04-12 22:33:00,EXPIRED,No response,App,Ayam Koplo,Platform,Cikini,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0615,2025-06-29 20:28:00,2025-06-29 20:40:00,2025-06-29 20:55:00,SOLVED,Replacement sent,Whatsapp,Ayam Koplo,Platform,BSD,Tech issue,Pembayaran gagal,Tech Team
+CMP-0616,2025-04-17 21:35:00,2025-04-17 21:48:00,2025-04-17 22:19:00,SOLVED,Replacement sent,App,San Gyu,Phone,Tebet,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0617,2025-05-29 21:11:00,2025-05-29 21:14:00,,HANDLING,In progress,App,Bude Sari,Platform,Pluit,Tech issue,Pembayaran gagal,Tech Team
+CMP-0618,2025-05-30 10:28:00,2025-05-30 10:43:00,2025-05-30 13:09:00,SOLVED,Refund,Social Media,San Gyu,Take Away,Cibubur,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0619,2025-01-04 09:48:00,2025-01-04 09:57:00,2025-01-04 10:24:00,SOLVED,Forgiven,Feedback,Bude Sari,Take Away,Tebet,Tech issue,App error,QC
+CMP-0620,2025-04-13 15:00:00,2025-04-13 15:13:00,2025-04-13 15:58:00,SOLVED,Forgiven,Social Media,Bude Sari,Take Away,Pamulang,Tech issue,Pembayaran gagal,Tech Team
+CMP-0621,2025-05-28 10:29:00,2025-05-28 10:44:00,2025-05-28 11:24:00,SOLVED,Replacement sent,App,San Gyu,App,Pamulang,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0622,2025-03-07 16:58:00,2025-03-07 17:09:00,2025-03-07 21:47:00,SOLVED,Refund,App,Ayam Koplo,Take Away,BSD,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0623,2025-05-26 09:48:00,2025-05-26 09:52:00,,VALIDATING,Missing proof,Whatsapp,Bude Sari,Take Away,Cibubur,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0624,2025-06-10 12:26:00,2025-06-10 12:51:00,2025-06-10 14:46:00,SOLVED,Refund,App,Moon Chicken,Platform,Cikini,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0625,2025-03-29 20:27:00,2025-03-29 20:34:00,2025-03-29 21:39:00,SOLVED,Forgiven,Whatsapp,Dari Pada,Take Away,Cibubur,Tech issue,Voucher error,Tech Team
+CMP-0626,2025-04-20 16:03:00,2025-04-20 16:10:00,,HANDLING,In progress,Social Media,San Gyu,Phone,Pluit,Rasa tidak sesuai,Keasinan,QC
+CMP-0627,2025-05-26 18:06:00,2025-05-26 18:14:00,2025-05-26 21:18:00,SOLVED,Replacement sent,App,Moon Chicken,App,Kemang,Tech issue,App error,Checker
+CMP-0628,2025-02-27 09:10:00,2025-02-27 09:12:00,2025-02-27 10:45:00,SOLVED,Forgiven,Feedback,Moon Chicken,Take Away,Cikini,Packaging issue,Kemasan rusak,Checker
+CMP-0629,2025-05-03 13:33:00,2025-05-03 13:40:00,2025-05-03 15:05:00,SOLVED,Replacement sent,App,Ayam Koplo,Take Away,Cikini,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0630,2025-03-25 13:28:00,2025-03-25 13:34:00,2025-03-25 14:35:00,EXPIRED,No response,Social Media,Dari Pada,Phone,Cikini,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0631,2025-06-18 12:01:00,2025-06-18 12:09:00,2025-06-18 12:59:00,SOLVED,Refund,Social Media,Dari Pada,Take Away,Cibubur,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0632,2025-06-08 11:16:00,2025-06-08 11:31:00,2025-06-08 19:46:00,EXPIRED,No response,Social Media,Moon Chicken,Phone,Kemang,Tekstur tidak sesuai,Keras,Kitchen
+CMP-0633,2025-01-04 15:56:00,2025-01-04 16:06:00,2025-01-04 16:56:00,SOLVED,Misunderstanding clarified,Whatsapp,Dari Pada,Take Away,Pamulang,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0634,2025-04-14 16:00:00,2025-04-14 16:17:00,2025-04-14 20:09:00,SOLVED,Replacement sent,Whatsapp,Moon Chicken,Phone,Pluit,Order tidak lengkap,Item kurang,Checker
+CMP-0635,2025-06-29 17:04:00,2025-06-29 17:10:00,2025-06-29 17:52:00,SOLVED,Misunderstanding clarified,Social Media,Dari Pada,App,Bintaro,Order tidak lengkap,Side dish tidak ada,AM
+CMP-0636,2025-02-12 21:53:00,2025-02-12 21:56:00,,HANDLING,In progress,Feedback,Dari Pada,Phone,Kemang,Order tidak lengkap,Item kurang,Kitchen
+CMP-0637,2025-01-03 12:00:00,2025-01-03 12:13:00,2025-01-03 13:47:00,SOLVED,Misunderstanding clarified,App,Bude Sari,Phone,Cibubur,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0638,2025-01-10 21:45:00,2025-01-10 21:57:00,2025-01-11 01:57:00,SOLVED,Refund,App,Ayam Koplo,Platform,BSD,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0639,2025-02-26 11:28:00,2025-02-26 11:35:00,2025-02-26 16:03:00,SOLVED,Refund,App,Moon Chicken,App,Cibubur,Packaging issue,Kemasan bocor,AM
+CMP-0640,2025-05-30 19:46:00,2025-05-30 20:10:00,2025-05-30 23:11:00,SOLVED,Replacement sent,Feedback,Ayam Koplo,Platform,Pamulang,Rasa tidak sesuai,Basi,QC
+CMP-0641,2025-06-20 21:49:00,2025-06-20 22:11:00,2025-06-20 22:14:00,SOLVED,Forgiven,Feedback,Bude Sari,Platform,Cikini,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0642,2025-02-24 12:33:00,2025-02-24 12:41:00,2025-02-24 16:08:00,SOLVED,Misunderstanding clarified,Social Media,Bude Sari,Take Away,Bintaro,Packaging issue,Kemasan rusak,AM
+CMP-0643,2025-01-07 20:23:00,2025-01-07 20:29:00,,VALIDATING,Missing proof,Social Media,Dari Pada,Phone,Bintaro,Tech issue,Voucher error,Tech Team
+CMP-0644,2025-02-28 11:38:00,2025-02-28 11:41:00,2025-02-28 12:08:00,SOLVED,Forgiven,App,Dari Pada,Take Away,Cibubur,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0645,2025-03-22 15:12:00,2025-03-22 15:20:00,2025-03-22 16:55:00,SOLVED,Replacement sent,Feedback,San Gyu,Phone,Kemang,Tech issue,Voucher error,Tech Team
+CMP-0646,2025-03-23 12:12:00,2025-03-23 12:26:00,2025-03-23 14:54:00,EXPIRED,No response,Feedback,Bude Sari,Take Away,Cikini,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,QC
+CMP-0647,2025-04-18 16:46:00,2025-04-18 17:22:00,2025-04-18 17:22:00,EXPIRED,No response,App,Dari Pada,Take Away,Bintaro,Rasa tidak sesuai,Keasinan,QC
+CMP-0648,2025-03-21 14:14:00,2025-03-21 14:20:00,2025-03-21 16:11:00,SOLVED,Refund,Feedback,Dari Pada,Platform,Pluit,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0649,2025-06-15 14:07:00,2025-06-15 14:09:00,2025-06-15 15:44:00,SOLVED,Refund,Whatsapp,Ayam Koplo,App,Pluit,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0650,2025-02-28 17:55:00,2025-02-28 18:03:00,2025-02-28 18:11:00,SOLVED,Refund,App,Bude Sari,App,Bintaro,Produk tidak sesuai dengan order,Varian salah,Tech Team
+CMP-0651,2025-03-08 15:49:00,2025-03-08 15:53:00,2025-03-08 16:50:00,SOLVED,Replacement sent,App,Bude Sari,Platform,Bintaro,Tech issue,Pembayaran gagal,Tech Team
+CMP-0652,2025-06-27 13:41:00,2025-06-27 13:43:00,2025-06-27 15:03:00,SOLVED,Refund,Whatsapp,Ayam Koplo,App,Bintaro,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0653,2025-02-05 19:53:00,2025-02-05 19:55:00,2025-02-05 23:11:00,SOLVED,Replacement sent,Feedback,Ayam Koplo,Phone,Pluit,Tekstur tidak sesuai,Kurang crispy,Kitchen
+CMP-0654,2025-01-31 22:00:00,2025-01-31 22:06:00,2025-02-01 01:20:00,SOLVED,Refund,Whatsapp,Bude Sari,App,Pluit,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0655,2025-04-22 14:40:00,2025-04-22 14:46:00,2025-04-22 17:00:00,EXPIRED,No response,App,Ayam Koplo,Take Away,Pamulang,Rasa tidak sesuai,Kurang rasa,Admin
+CMP-0656,2025-03-10 13:10:00,2025-03-10 13:13:00,2025-03-10 16:28:00,SOLVED,Misunderstanding clarified,App,Dari Pada,Phone,Tebet,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0657,2025-06-20 18:32:00,2025-06-20 18:49:00,2025-06-20 19:59:00,SOLVED,Replacement sent,App,San Gyu,Phone,Cibubur,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0658,2025-01-25 18:14:00,2025-01-25 18:27:00,2025-01-25 21:13:00,SOLVED,Forgiven,Feedback,Moon Chicken,App,BSD,Order tidak lengkap,Item kurang,Checker
+CMP-0659,2025-05-29 19:17:00,2025-05-29 19:26:00,2025-05-29 23:06:00,SOLVED,Misunderstanding clarified,Feedback,San Gyu,App,Pamulang,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0660,2025-05-25 16:16:00,2025-05-25 16:26:00,2025-05-25 17:05:00,SOLVED,Refund,Feedback,Ayam Koplo,App,Kemang,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0661,2025-02-08 13:12:00,2025-02-08 13:15:00,,HANDLING,In progress,App,Dari Pada,Platform,Pluit,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0662,2025-06-27 19:02:00,2025-06-27 19:08:00,2025-06-27 22:24:00,SOLVED,Replacement sent,Social Media,San Gyu,Phone,Cibubur,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0663,2025-03-28 21:30:00,2025-03-28 21:34:00,2025-03-28 22:07:00,SOLVED,Forgiven,Whatsapp,Moon Chicken,Take Away,Tebet,Order tidak lengkap,Item kurang,Kitchen
+CMP-0664,2025-01-15 19:16:00,2025-01-15 19:18:00,2025-01-15 22:03:00,SOLVED,Misunderstanding clarified,Social Media,Dari Pada,App,Cikini,Tech issue,Pembayaran gagal,Tech Team
+CMP-0665,2025-03-11 11:51:00,2025-03-11 12:00:00,,HANDLING,In progress,Social Media,San Gyu,App,Pamulang,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0666,2025-06-23 13:59:00,2025-06-23 14:19:00,2025-06-23 18:02:00,EXPIRED,No response,Social Media,San Gyu,App,Tebet,Packaging issue,Label tidak sesuai,AM
+CMP-0667,2025-01-08 12:07:00,2025-01-08 12:18:00,2025-01-08 12:54:00,SOLVED,Replacement sent,Feedback,Moon Chicken,Take Away,Bintaro,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0668,2025-03-23 16:41:00,2025-03-23 17:07:00,,HANDLING,In progress,Whatsapp,San Gyu,Phone,Cikini,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0669,2025-06-05 15:26:00,2025-06-05 15:45:00,2025-06-05 17:20:00,SOLVED,Misunderstanding clarified,Social Media,Dari Pada,Take Away,BSD,Tekstur tidak sesuai,Kurang crispy,Kitchen
+CMP-0670,2025-01-26 10:13:00,2025-01-26 10:18:00,2025-01-26 11:33:00,SOLVED,Forgiven,Social Media,Ayam Koplo,Take Away,Cikini,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0671,2025-05-12 19:20:00,2025-05-12 19:24:00,2025-05-12 19:41:00,SOLVED,Replacement sent,App,Moon Chicken,App,Pluit,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0672,2025-04-26 13:57:00,2025-04-26 14:01:00,2025-04-26 17:12:00,SOLVED,Forgiven,Whatsapp,Bude Sari,Take Away,Pamulang,Order tidak lengkap,Item kurang,Checker
+CMP-0673,2025-06-20 15:35:00,2025-06-20 15:57:00,2025-06-20 19:11:00,SOLVED,Refund,Feedback,Bude Sari,Take Away,Pamulang,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0674,2025-03-10 19:37:00,2025-03-10 19:40:00,2025-03-10 20:31:00,SOLVED,Refund,App,Ayam Koplo,Take Away,Tebet,Tekstur tidak sesuai,Keras,Kitchen
+CMP-0675,2025-06-01 19:23:00,2025-06-01 19:32:00,2025-06-01 22:07:00,SOLVED,Replacement sent,Whatsapp,San Gyu,Phone,Pamulang,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0676,2025-06-12 18:25:00,2025-06-12 18:37:00,2025-06-12 21:30:00,SOLVED,Refund,Social Media,Dari Pada,Phone,Cibubur,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0677,2025-06-15 16:05:00,2025-06-15 16:23:00,2025-06-16 00:20:00,EXPIRED,No response,App,Ayam Koplo,Take Away,BSD,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0678,2025-05-01 09:38:00,2025-05-01 09:40:00,2025-05-01 10:43:00,SOLVED,Forgiven,Whatsapp,Moon Chicken,App,Tebet,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0679,2025-03-12 12:49:00,2025-03-12 12:56:00,2025-03-12 14:33:00,SOLVED,Forgiven,App,Moon Chicken,Take Away,BSD,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0680,2025-01-11 11:48:00,2025-01-11 12:17:00,2025-01-12 01:13:00,EXPIRED,No response,Whatsapp,San Gyu,App,Pluit,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0681,2025-03-02 18:55:00,2025-03-02 18:59:00,2025-03-02 20:34:00,SOLVED,Refund,Social Media,Dari Pada,Platform,Bintaro,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0682,2025-03-01 21:17:00,2025-03-01 21:20:00,2025-03-01 22:33:00,SOLVED,Forgiven,App,San Gyu,Take Away,BSD,Rasa tidak sesuai,Keasinan,Admin
+CMP-0683,2025-05-11 15:08:00,2025-05-11 15:16:00,2025-05-11 17:11:00,SOLVED,Refund,App,Ayam Koplo,Platform,Pamulang,Tekstur tidak sesuai,Kurang crispy,Kitchen
+CMP-0684,2025-03-30 11:15:00,2025-03-30 11:21:00,2025-03-30 12:31:00,EXPIRED,No response,App,San Gyu,App,Bintaro,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0685,2025-02-28 17:14:00,2025-02-28 17:19:00,2025-02-28 19:59:00,SOLVED,Forgiven,Feedback,Dari Pada,Phone,Bintaro,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0686,2025-02-02 17:06:00,2025-02-02 17:33:00,,HANDLING,In progress,App,Ayam Koplo,Phone,Kemang,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0687,2025-04-07 16:23:00,2025-04-07 16:40:00,2025-04-07 16:54:00,SOLVED,Forgiven,Feedback,San Gyu,App,Pamulang,Packaging issue,Label tidak sesuai,AM
+CMP-0688,2025-04-24 19:04:00,2025-04-24 19:16:00,2025-04-24 19:46:00,SOLVED,Replacement sent,Whatsapp,Ayam Koplo,Take Away,Pamulang,Packaging issue,Label tidak sesuai,AM
+CMP-0689,2025-06-11 13:45:00,2025-06-11 13:48:00,2025-06-11 14:14:00,EXPIRED,No response,Whatsapp,San Gyu,Phone,BSD,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0690,2025-03-05 11:14:00,2025-03-05 11:18:00,,HANDLING,In progress,Whatsapp,San Gyu,Platform,Bintaro,Tech issue,Pembayaran gagal,Tech Team
+CMP-0691,2025-02-24 19:49:00,2025-02-24 19:58:00,2025-02-24 20:38:00,SOLVED,Forgiven,Feedback,Ayam Koplo,Phone,BSD,Tech issue,Voucher error,Tech Team
+CMP-0692,2025-04-13 15:34:00,2025-04-13 15:36:00,2025-04-13 16:42:00,SOLVED,Forgiven,Feedback,Bude Sari,Phone,Cikini,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0693,2025-06-04 17:35:00,2025-06-04 17:42:00,2025-06-04 17:57:00,EXPIRED,No response,Feedback,San Gyu,Take Away,Tebet,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0694,2025-04-15 16:30:00,2025-04-15 16:37:00,2025-04-15 17:52:00,SOLVED,Misunderstanding clarified,Social Media,Bude Sari,Phone,Cikini,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0695,2025-06-21 20:59:00,2025-06-21 21:10:00,2025-06-21 21:57:00,SOLVED,Misunderstanding clarified,App,Bude Sari,App,BSD,Tech issue,App error,Tech Team
+CMP-0696,2025-05-25 16:26:00,2025-05-25 16:31:00,2025-05-25 18:32:00,SOLVED,Refund,Social Media,Moon Chicken,Take Away,Pluit,Tech issue,Pembayaran gagal,Tech Team
+CMP-0697,2025-01-14 17:38:00,2025-01-14 18:10:00,2025-01-14 19:06:00,SOLVED,Replacement sent,App,Moon Chicken,Phone,Pamulang,Rasa tidak sesuai,Basi,QC
+CMP-0698,2025-02-28 15:17:00,2025-02-28 15:33:00,2025-02-28 17:17:00,SOLVED,Refund,App,San Gyu,Take Away,Pamulang,Packaging issue,Label tidak sesuai,AM
+CMP-0699,2025-03-26 19:27:00,2025-03-26 19:49:00,,HANDLING,In progress,Feedback,Moon Chicken,App,Kemang,Tekstur tidak sesuai,Keras,Cashier
+CMP-0700,2025-01-23 11:07:00,2025-01-23 11:12:00,2025-01-23 14:05:00,SOLVED,Misunderstanding clarified,Feedback,Bude Sari,Phone,Tebet,Tech issue,App error,Admin
+CMP-0701,2025-02-05 13:56:00,2025-02-05 14:06:00,2025-02-05 14:21:00,SOLVED,Refund,Feedback,Bude Sari,Take Away,Cibubur,Packaging issue,Kemasan bocor,AM
+CMP-0702,2025-06-19 12:10:00,2025-06-19 12:14:00,2025-06-19 13:55:00,SOLVED,Misunderstanding clarified,Whatsapp,Moon Chicken,App,Pluit,Packaging issue,Kemasan rusak,AM
+CMP-0703,2025-04-19 10:51:00,2025-04-19 10:59:00,2025-04-19 13:43:00,SOLVED,Replacement sent,Social Media,Ayam Koplo,App,BSD,Order tidak lengkap,Side dish tidak ada,Tech Team
+CMP-0704,2025-03-31 17:44:00,2025-03-31 17:48:00,2025-03-31 18:04:00,SOLVED,Misunderstanding clarified,Whatsapp,Dari Pada,Phone,BSD,Packaging issue,Kemasan bocor,AM
+CMP-0705,2025-01-02 10:40:00,2025-01-02 10:46:00,2025-01-02 12:07:00,SOLVED,Misunderstanding clarified,Feedback,Ayam Koplo,Platform,Tebet,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0706,2025-03-01 17:41:00,2025-03-01 17:46:00,2025-03-01 20:44:00,SOLVED,Forgiven,Whatsapp,Moon Chicken,Platform,Tebet,Order tidak lengkap,Item kurang,Checker
+CMP-0707,2025-02-26 15:54:00,2025-02-26 16:05:00,2025-02-26 18:13:00,SOLVED,Misunderstanding clarified,App,Ayam Koplo,Phone,Pamulang,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0708,2025-02-05 15:11:00,2025-02-05 15:13:00,2025-02-05 18:37:00,SOLVED,Forgiven,Social Media,Ayam Koplo,Take Away,Pluit,Order tidak lengkap,Item kurang,Checker
+CMP-0709,2025-06-09 21:14:00,2025-06-09 21:20:00,2025-06-10 00:02:00,SOLVED,Misunderstanding clarified,App,Ayam Koplo,Take Away,BSD,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0710,2025-01-03 11:02:00,2025-01-03 11:11:00,,HANDLING,In progress,App,Ayam Koplo,Phone,Bintaro,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0711,2025-01-21 13:40:00,2025-01-21 14:19:00,2025-01-21 19:18:00,SOLVED,Forgiven,Social Media,Dari Pada,Phone,Pluit,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0712,2025-06-03 11:02:00,2025-06-03 11:12:00,2025-06-03 11:25:00,SOLVED,Forgiven,Social Media,Bude Sari,Take Away,Cibubur,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0713,2025-04-09 12:45:00,2025-04-09 12:56:00,2025-04-09 14:23:00,SOLVED,Forgiven,Feedback,Moon Chicken,App,Bintaro,Tekstur tidak sesuai,Keras,Kitchen
+CMP-0714,2025-02-25 16:20:00,2025-02-25 16:27:00,2025-02-25 17:00:00,SOLVED,Replacement sent,App,Ayam Koplo,Take Away,Tebet,Tech issue,Voucher error,Tech Team
+CMP-0715,2025-04-07 19:04:00,2025-04-07 19:12:00,,HANDLING,In progress,Whatsapp,Dari Pada,Platform,Cibubur,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0716,2025-02-11 16:40:00,2025-02-11 17:07:00,2025-02-11 17:07:00,SOLVED,Forgiven,Social Media,Dari Pada,Platform,Tebet,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0717,2025-01-16 16:41:00,2025-01-16 16:53:00,2025-01-16 17:01:00,SOLVED,Misunderstanding clarified,App,Dari Pada,App,BSD,Packaging issue,Kemasan bocor,AM
+CMP-0718,2025-05-16 10:53:00,2025-05-16 11:02:00,2025-05-16 17:06:00,SOLVED,Replacement sent,Feedback,Dari Pada,App,Pamulang,Tech issue,Voucher error,Tech Team
+CMP-0719,2025-01-29 09:40:00,2025-01-29 09:46:00,2025-01-29 09:52:00,SOLVED,Forgiven,Whatsapp,Moon Chicken,App,BSD,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0720,2025-04-16 15:05:00,2025-04-16 15:11:00,2025-04-16 16:26:00,SOLVED,Refund,Feedback,Dari Pada,App,BSD,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0721,2025-02-26 17:51:00,2025-02-26 18:05:00,2025-02-26 22:29:00,SOLVED,Misunderstanding clarified,App,Dari Pada,App,Kemang,Tekstur tidak sesuai,Dingin/tidak fresh,Cashier
+CMP-0722,2025-03-18 12:04:00,2025-03-18 12:07:00,2025-03-18 12:13:00,SOLVED,Misunderstanding clarified,App,Moon Chicken,Take Away,Kemang,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0723,2025-05-29 13:41:00,2025-05-29 13:51:00,2025-05-29 14:09:00,SOLVED,Replacement sent,App,Bude Sari,Take Away,Tebet,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0724,2025-02-21 09:28:00,2025-02-21 09:32:00,,VALIDATING,Missing proof,Whatsapp,San Gyu,Phone,Pluit,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0725,2025-06-19 21:33:00,2025-06-19 21:38:00,,VALIDATING,Missing proof,App,Bude Sari,App,Cikini,Tekstur tidak sesuai,Kurang crispy,Kitchen
+CMP-0726,2025-01-08 16:03:00,2025-01-08 16:12:00,2025-01-08 17:54:00,SOLVED,Refund,Feedback,Bude Sari,Platform,Bintaro,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0727,2025-01-04 12:18:00,2025-01-04 12:21:00,2025-01-04 12:55:00,SOLVED,Refund,Feedback,Ayam Koplo,Platform,Pluit,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0728,2025-06-04 21:20:00,2025-06-04 21:24:00,2025-06-04 21:42:00,SOLVED,Misunderstanding clarified,App,Ayam Koplo,Platform,Pluit,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0729,2025-04-24 14:08:00,2025-04-24 14:13:00,2025-04-24 14:40:00,EXPIRED,No response,Whatsapp,Ayam Koplo,Platform,BSD,Order tidak lengkap,Item kurang,Checker
+CMP-0730,2025-06-04 10:27:00,2025-06-04 10:41:00,2025-06-04 10:50:00,SOLVED,Replacement sent,Social Media,Dari Pada,Phone,BSD,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0731,2025-02-22 20:07:00,2025-02-22 20:08:00,2025-02-22 22:17:00,SOLVED,Replacement sent,Social Media,Bude Sari,Platform,Kemang,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0732,2025-03-04 09:39:00,2025-03-04 09:46:00,2025-03-04 10:27:00,SOLVED,Refund,Social Media,Ayam Koplo,Platform,Cikini,Tekstur tidak sesuai,Kurang crispy,Kitchen
+CMP-0733,2025-03-14 17:39:00,2025-03-14 17:50:00,2025-03-14 19:09:00,SOLVED,Refund,Feedback,San Gyu,Take Away,Cibubur,Packaging issue,Kemasan rusak,AM
+CMP-0734,2025-03-04 21:15:00,2025-03-04 21:25:00,,VALIDATING,Missing proof,Feedback,Bude Sari,Phone,Pamulang,Rasa tidak sesuai,Keasinan,QC
+CMP-0735,2025-04-19 18:49:00,2025-04-19 18:54:00,2025-04-19 21:09:00,SOLVED,Misunderstanding clarified,Feedback,Ayam Koplo,Platform,Pamulang,Waktu pengiriman terlalu lama,Driver delay,Admin
+CMP-0736,2025-02-13 10:34:00,2025-02-13 10:44:00,2025-02-13 13:16:00,SOLVED,Misunderstanding clarified,App,Dari Pada,Platform,Pluit,Order tidak lengkap,Item kurang,Checker
+CMP-0737,2025-03-05 19:33:00,2025-03-05 19:37:00,2025-03-05 20:27:00,SOLVED,Refund,Whatsapp,Bude Sari,Platform,Cikini,Rasa tidak sesuai,Terlalu manis,QC
+CMP-0738,2025-03-25 18:07:00,2025-03-25 18:10:00,2025-03-25 19:02:00,SOLVED,Refund,App,San Gyu,Phone,Pamulang,Packaging issue,Label tidak sesuai,AM
+CMP-0739,2025-01-08 19:49:00,2025-01-08 19:54:00,2025-01-09 00:06:00,EXPIRED,No response,Feedback,Ayam Koplo,Phone,Tebet,Rasa tidak sesuai,Keasinan,QC
+CMP-0740,2025-01-01 13:38:00,2025-01-01 13:43:00,2025-01-01 14:04:00,SOLVED,Forgiven,Social Media,Ayam Koplo,Platform,Cibubur,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0741,2025-03-07 11:17:00,2025-03-07 11:35:00,2025-03-07 11:48:00,EXPIRED,No response,Whatsapp,Bude Sari,Take Away,Bintaro,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0742,2025-03-05 11:56:00,2025-03-05 12:10:00,2025-03-05 12:21:00,SOLVED,Forgiven,Feedback,San Gyu,Phone,BSD,Packaging issue,Label tidak sesuai,AM
+CMP-0743,2025-05-07 19:12:00,2025-05-07 19:20:00,2025-05-07 19:32:00,SOLVED,Replacement sent,Social Media,Moon Chicken,Take Away,Cikini,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0744,2025-03-24 16:05:00,2025-03-24 16:16:00,2025-03-24 16:27:00,SOLVED,Replacement sent,Feedback,San Gyu,Platform,Cibubur,Produk tidak sesuai dengan order,Varian salah,Cashier
+CMP-0745,2025-05-20 14:28:00,2025-05-20 14:38:00,,HANDLING,In progress,Whatsapp,San Gyu,Platform,BSD,Order tidak lengkap,Item kurang,Checker
+CMP-0746,2025-05-17 12:36:00,2025-05-17 12:46:00,2025-05-17 13:42:00,SOLVED,Forgiven,App,Ayam Koplo,App,Bintaro,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0747,2025-03-31 09:52:00,2025-03-31 10:02:00,2025-03-31 10:47:00,SOLVED,Misunderstanding clarified,Whatsapp,Moon Chicken,App,Cibubur,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0748,2025-06-01 14:28:00,2025-06-01 14:36:00,2025-06-01 18:27:00,SOLVED,Misunderstanding clarified,App,San Gyu,App,Pluit,Order tidak lengkap,Side dish tidak ada,Checker
+CMP-0749,2025-01-11 11:43:00,2025-01-11 11:46:00,2025-01-11 12:27:00,SOLVED,Forgiven,Social Media,San Gyu,Platform,Pamulang,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0750,2025-02-13 13:02:00,2025-02-13 13:05:00,2025-02-13 13:26:00,SOLVED,Refund,Social Media,Dari Pada,Phone,Cibubur,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0751,2025-02-05 13:03:00,2025-02-05 13:08:00,2025-02-05 16:15:00,SOLVED,Refund,Social Media,San Gyu,App,Pluit,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,QC
+CMP-0752,2025-05-10 12:43:00,2025-05-10 12:49:00,2025-05-10 14:48:00,SOLVED,Forgiven,Social Media,Dari Pada,Take Away,Cikini,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0753,2025-06-23 18:24:00,2025-06-23 18:29:00,2025-06-23 19:44:00,EXPIRED,No response,Feedback,Bude Sari,Take Away,Cibubur,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0754,2025-03-30 12:44:00,2025-03-30 12:48:00,2025-03-30 13:07:00,SOLVED,Forgiven,Whatsapp,Bude Sari,Phone,BSD,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0755,2025-06-21 09:08:00,2025-06-21 09:12:00,,HANDLING,In progress,Social Media,Dari Pada,Take Away,Pluit,Tech issue,Voucher error,Tech Team
+CMP-0756,2025-04-07 11:27:00,2025-04-07 11:33:00,2025-04-07 12:58:00,SOLVED,Replacement sent,Social Media,Moon Chicken,Phone,Pluit,Packaging issue,Kemasan bocor,Admin
+CMP-0757,2025-03-15 20:38:00,2025-03-15 20:43:00,2025-03-16 02:24:00,SOLVED,Misunderstanding clarified,App,Bude Sari,Take Away,BSD,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0758,2025-02-15 10:41:00,2025-02-15 10:44:00,2025-02-15 11:23:00,SOLVED,Misunderstanding clarified,Whatsapp,Ayam Koplo,Take Away,Tebet,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0759,2025-01-13 10:32:00,2025-01-13 10:45:00,2025-01-13 11:03:00,SOLVED,Refund,Feedback,Moon Chicken,App,Tebet,Tech issue,Voucher error,Tech Team
+CMP-0760,2025-01-13 14:08:00,2025-01-13 14:10:00,2025-01-13 14:37:00,SOLVED,Replacement sent,Whatsapp,Ayam Koplo,App,Bintaro,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0761,2025-05-19 14:02:00,2025-05-19 14:10:00,2025-05-19 16:29:00,SOLVED,Refund,Whatsapp,San Gyu,Phone,Cikini,Order tidak lengkap,Minuman tidak ada,Checker
+CMP-0762,2025-01-23 21:35:00,2025-01-23 21:48:00,2025-01-23 22:03:00,SOLVED,Replacement sent,Whatsapp,San Gyu,Take Away,Bintaro,Rasa tidak sesuai,Keasinan,QC
+CMP-0763,2025-02-21 12:26:00,2025-02-21 12:36:00,,HANDLING,In progress,Feedback,Ayam Koplo,Take Away,Tebet,Packaging issue,Label tidak sesuai,AM
+CMP-0764,2025-02-07 17:38:00,2025-02-07 17:43:00,2025-02-07 18:48:00,EXPIRED,No response,Whatsapp,Moon Chicken,Platform,Pluit,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0765,2025-04-16 15:32:00,2025-04-16 15:44:00,2025-04-16 17:12:00,SOLVED,Refund,Feedback,Ayam Koplo,Take Away,Kemang,Packaging issue,Label tidak sesuai,AM
+CMP-0766,2025-05-31 20:32:00,2025-05-31 20:37:00,,HANDLING,In progress,Feedback,Bude Sari,Phone,Pluit,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Driver
+CMP-0767,2025-02-26 19:20:00,2025-02-26 19:44:00,2025-02-26 20:03:00,EXPIRED,No response,Whatsapp,Bude Sari,Phone,Cibubur,Tekstur tidak sesuai,Kurang crispy,Kitchen
+CMP-0768,2025-03-24 10:33:00,2025-03-24 10:37:00,2025-03-24 10:44:00,SOLVED,Refund,App,Moon Chicken,App,Pluit,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0769,2025-04-30 21:53:00,2025-04-30 22:34:00,2025-05-01 00:32:00,SOLVED,Replacement sent,App,Bude Sari,Take Away,Kemang,Packaging issue,Kemasan bocor,QC
+CMP-0770,2025-04-26 16:17:00,2025-04-26 16:24:00,2025-04-26 18:15:00,SOLVED,Misunderstanding clarified,Social Media,Dari Pada,Phone,Pamulang,Rasa tidak sesuai,Keasinan,QC
+CMP-0771,2025-02-25 20:23:00,2025-02-25 20:36:00,2025-02-25 21:07:00,SOLVED,Misunderstanding clarified,Social Media,Moon Chicken,Phone,Bintaro,Tech issue,Pembayaran gagal,Tech Team
+CMP-0772,2025-06-25 17:20:00,2025-06-25 17:38:00,2025-06-25 17:38:00,SOLVED,Replacement sent,Whatsapp,San Gyu,App,BSD,Tekstur tidak sesuai,Daging kering,Kitchen
+CMP-0773,2025-05-20 11:08:00,2025-05-20 11:16:00,2025-05-20 12:02:00,SOLVED,Forgiven,Whatsapp,Dari Pada,Take Away,BSD,Packaging issue,Kemasan rusak,AM
+CMP-0774,2025-02-22 17:55:00,2025-02-22 18:01:00,2025-02-22 18:34:00,EXPIRED,No response,Social Media,San Gyu,App,Bintaro,Produk tidak sesuai dengan order,Varian salah,Driver
+CMP-0775,2025-03-14 09:35:00,2025-03-14 09:40:00,2025-03-14 14:22:00,EXPIRED,No response,Feedback,Dari Pada,Phone,Bintaro,Tech issue,Pembayaran gagal,Tech Team
+CMP-0776,2025-03-17 10:05:00,2025-03-17 10:18:00,2025-03-17 11:21:00,SOLVED,Refund,Whatsapp,Dari Pada,Phone,Tebet,Packaging issue,Kemasan bocor,AM
+CMP-0777,2025-04-25 21:26:00,2025-04-25 21:31:00,,VALIDATING,Missing proof,Whatsapp,Dari Pada,Phone,Pluit,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0778,2025-03-02 17:05:00,2025-03-02 17:15:00,2025-03-02 17:43:00,SOLVED,Forgiven,Whatsapp,Dari Pada,Phone,Tebet,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0779,2025-02-28 17:55:00,2025-02-28 18:02:00,2025-02-28 20:01:00,SOLVED,Replacement sent,Whatsapp,Bude Sari,Platform,Pamulang,Tech issue,Voucher error,Tech Team
+CMP-0780,2025-04-02 15:42:00,2025-04-02 16:00:00,2025-04-02 16:24:00,SOLVED,Forgiven,Social Media,Moon Chicken,App,Bintaro,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0781,2025-06-14 20:25:00,2025-06-14 20:31:00,,VALIDATING,Missing proof,Whatsapp,Dari Pada,Phone,Pamulang,Porsi tidak sesuai,Porsi terlalu sedikit,AM
+CMP-0782,2025-01-28 10:54:00,2025-01-28 11:05:00,2025-01-28 16:37:00,SOLVED,Replacement sent,Social Media,Ayam Koplo,Platform,Pamulang,Tech issue,Voucher error,Tech Team
+CMP-0783,2025-01-08 17:14:00,2025-01-08 17:40:00,2025-01-08 17:40:00,EXPIRED,No response,Whatsapp,Dari Pada,App,Bintaro,Rasa tidak sesuai,Basi,QC
+CMP-0784,2025-04-29 11:43:00,2025-04-29 11:51:00,2025-04-29 12:12:00,SOLVED,Refund,App,Bude Sari,Phone,Bintaro,Rasa tidak sesuai,Keasinan,QC
+CMP-0785,2025-02-02 12:26:00,2025-02-02 12:29:00,2025-02-02 13:33:00,SOLVED,Refund,Whatsapp,San Gyu,Platform,Tebet,Packaging issue,Kemasan bocor,AM
+CMP-0786,2025-04-10 17:49:00,2025-04-10 17:55:00,2025-04-10 19:23:00,SOLVED,Misunderstanding clarified,App,Moon Chicken,Take Away,BSD,Rasa tidak sesuai,Keasinan,QC
+CMP-0787,2025-03-10 12:10:00,2025-03-10 12:23:00,2025-03-10 15:06:00,EXPIRED,No response,Whatsapp,Moon Chicken,Platform,Kemang,Rasa tidak sesuai,Kurang rasa,QC
+CMP-0788,2025-05-15 12:48:00,2025-05-15 12:55:00,2025-05-15 19:43:00,SOLVED,Replacement sent,Social Media,Moon Chicken,Platform,BSD,Packaging issue,Kemasan rusak,Kitchen
+CMP-0789,2025-02-19 14:31:00,2025-02-19 14:35:00,2025-02-19 14:48:00,SOLVED,Replacement sent,Feedback,Bude Sari,Take Away,Kemang,Porsi tidak sesuai,Ukuran tidak sesuai,AM
+CMP-0790,2025-05-17 11:37:00,2025-05-17 11:46:00,,HANDLING,In progress,Whatsapp,Dari Pada,Phone,Pamulang,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0791,2025-04-27 11:03:00,2025-04-27 11:14:00,2025-04-27 12:06:00,SOLVED,Refund,Social Media,Ayam Koplo,App,BSD,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0792,2025-04-05 18:04:00,2025-04-05 18:13:00,2025-04-05 18:13:00,SOLVED,Refund,Whatsapp,Dari Pada,Take Away,BSD,Produk tidak sesuai dengan order,Varian salah,Checker
+CMP-0793,2025-04-27 17:25:00,2025-04-27 17:34:00,2025-04-27 18:43:00,SOLVED,Refund,Whatsapp,Dari Pada,Phone,Tebet,Packaging issue,Kemasan rusak,AM
+CMP-0794,2025-02-04 16:24:00,2025-02-04 16:45:00,2025-02-04 21:04:00,SOLVED,Replacement sent,Whatsapp,San Gyu,Platform,Bintaro,Tekstur tidak sesuai,Dingin/tidak fresh,Kitchen
+CMP-0795,2025-02-27 13:03:00,2025-02-27 13:08:00,2025-02-27 13:33:00,SOLVED,Replacement sent,Social Media,Ayam Koplo,Take Away,Pluit,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0796,2025-05-10 11:42:00,2025-05-10 11:54:00,,HANDLING,In progress,Whatsapp,Ayam Koplo,App,Cibubur,Produk tidak sesuai dengan order,Menu tertukar,Checker
+CMP-0797,2025-05-21 15:23:00,2025-05-21 15:29:00,,VALIDATING,Missing proof,Whatsapp,Dari Pada,Phone,Tebet,Waktu pengiriman terlalu lama,Order menunggu terlalu lama,Admin
+CMP-0798,2025-04-19 16:52:00,2025-04-19 17:23:00,,VALIDATING,Missing proof,Social Media,Dari Pada,Take Away,Cikini,Porsi tidak sesuai,Porsi terlalu sedikit,Driver
+CMP-0799,2025-02-16 11:41:00,2025-02-16 11:43:00,2025-02-16 15:54:00,EXPIRED,No response,App,Bude Sari,Platform,Kemang,Order tidak lengkap,Item kurang,Checker
+CMP-0800,2025-01-10 18:29:00,2025-01-10 18:39:00,,HANDLING,In progress,Whatsapp,Moon Chicken,App,BSD,Produk tidak sesuai dengan order,Varian salah,Checker
